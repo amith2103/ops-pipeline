@@ -1,0 +1,1001 @@
+request_id,customer_name,service_type,issue_type,priority,status,created_date,resolved_date,assigned_to,region
+REQ-1000,Robert Jackson,Electric,Power Outage,High,Resolved,2026-02-23,2026-03-03,Joseph Noble,North
+REQ-1001,Darlene York,Electric,Downed Power Line,Critical,Open,2026-06-13,,Bradley Jordan,South
+REQ-1002,Nicole Gomez,Gas,Gas Leak,Critical,In Progress,2025-07-31,,Jennifer Martinez,West
+REQ-1003,Anthony Ramirez,Gas,Billing Issue,Medium,Resolved,2026-06-25,2026-07-20,Joseph Noble,West
+REQ-1004,Michael Duffy,Water,Water Quality,Medium,In Progress,2026-03-10,,Hunter Morris,North
+REQ-1005,Paul Reynolds,Electric,Downed Power Line,Critical,Open,2025-12-27,,Hunter Morris,Central
+REQ-1006,Danielle Yu,Water,No water Supply,Medium,Escalated,2025-09-27,,Bradley Jordan,West
+REQ-1007,Devon Rojas,Electric,Meter Error,Medium,Resolved,2025-09-06,2025-09-13,Bradley Jordan,North
+REQ-1008,Shawn Fox,Gas,Meter Error,Medium,Open,2026-03-01,,Bradley Jordan,West
+REQ-1009,Adam Murphy,Water,Pipe  Burst,Medium,Resolved,2026-04-06,2026-04-18,Hunter Morris,South
+REQ-1010,Ronald Trujillo,Water,No water Supply,Medium,In Progress,2025-09-28,,Nathaniel Luna,South
+REQ-1011,Gary Preston,Billing,Account Error,Medium,Resolved,2025-08-05,2025-08-28,Jennifer Martinez,South
+REQ-1012,Joseph Bell,Water,No water Supply,Medium,In Progress,2026-06-12,,Hunter Morris,West
+REQ-1013,Justin Williams,Water,No water Supply,Medium,In Progress,2025-09-11,,Hunter Morris,South
+REQ-1014,David Gamble,Billing,Account Error,Medium,Escalated,2026-04-16,,Kimberly Jenkins,South
+REQ-1015,Ryan Rodriguez,Gas,Meter Error,Medium,Escalated,2025-09-03,,Daniel Hall,East
+REQ-1016,Brittney Smith,Gas,No Gas Supply,Medium,Escalated,2026-05-13,,Christopher Nelson,North
+REQ-1017,Shelly Mitchell,Gas,No Gas Supply,Medium,Escalated,2025-08-27,,Bradley Jordan,West
+REQ-1018,Jason Glenn,Billing,Account Error,Medium,Resolved,2025-09-18,2025-10-16,Christopher Nelson,North
+REQ-1019,Susan Hughes,Water,Water Quality,Medium,Open,2026-01-29,,Daniel Hall,South
+REQ-1020,Annette Munoz,Billing,Incorrect Charge,Medium,Resolved,2025-10-15,2025-11-09,Joseph Noble,Central
+REQ-1021,Brenda Russo,Electric,Meter Error,Medium,In Progress,2026-04-11,,Hunter Morris,South
+REQ-1022,Heather Burton,Electric,Meter Error,Medium,Escalated,2026-06-19,,Bradley Jordan,East
+REQ-1023,Cheryl Williams,Water,Low Pressure,Medium,Open,2026-02-25,,Sharon Michael,North
+REQ-1024,Suzanne Brennan MD,Electric,Downed Power Line,Critical,Open,2025-09-29,,Joseph Noble,South
+REQ-1025,Shawn Zuniga,Billing,Payment Not Reflected,Medium,Resolved,2025-10-01,2025-10-29,Sharon Michael,West
+REQ-1026,Gail Rogers,Gas,No Gas Supply,Medium,Resolved,2025-12-06,2025-12-28,Hunter Morris,West
+REQ-1027,Matthew James,Billing,Incorrect Charge,Medium,In Progress,2026-03-05,,Bradley Jordan,East
+REQ-1028,Jennifer Taylor MD,Electric,volatge Fluctuation,Medium,In Progress,2026-06-25,,Bradley Jordan,North
+REQ-1029,Jonathan Logan,Gas,Gas Leak,Critical,Open,2026-01-10,,Bradley Jordan,Central
+REQ-1030,Joseph Chaney,Gas,Meter Error,Medium,Escalated,2026-03-11,,Jennifer Martinez,South
+REQ-1031,Tamara Klein,Billing,Payment Not Reflected,Medium,Escalated,2025-12-02,,Nathaniel Luna,North
+REQ-1032,Brian Schwartz,Electric,Downed Power Line,Critical,Resolved,2025-11-24,2025-12-08,Jeffery Thomas,North
+REQ-1033,Meagan Price,Electric,Power Outage,High,Escalated,2026-01-06,,Bradley Jordan,South
+REQ-1034,Monica Brown,Gas,No Gas Supply,Medium,Escalated,2026-04-18,,Daniel Hall,South
+REQ-1035,April Rowland,Water,Pipe  Burst,Medium,In Progress,2026-05-21,,Jeffery Thomas,Central
+REQ-1036,Andrea Harris,Electric,Power Outage,High,Open,2026-05-12,,Nathaniel Luna,South
+REQ-1037,Billy Powers,Billing,Account Error,Medium,Escalated,2026-03-11,,Daniel Hall,North
+REQ-1038,Matthew Carter,Gas,Billing Issue,Medium,Open,2025-12-11,,Kimberly Jenkins,West
+REQ-1039,Garrett Rojas,Water,Pipe  Burst,Medium,Escalated,2026-04-10,,Nathaniel Luna,East
+REQ-1040,Kevin Griffith,Gas,Gas Leak,Critical,Open,2026-01-19,,Christopher Nelson,North
+REQ-1041,Jennifer Haynes MD,Billing,Payment Not Reflected,Medium,Open,2025-10-11,,Bradley Jordan,South
+REQ-1042,Debbie Jacobs,Electric,Power Outage,High,In Progress,2025-12-04,,Bradley Jordan,Central
+REQ-1043,Cynthia Martinez,Gas,Gas Leak,Critical,Open,2025-11-26,,Sharon Michael,Central
+REQ-1044,Jill Sosa,Water,Water Quality,Medium,In Progress,2025-07-21,,Hunter Morris,South
+REQ-1045,Kathleen Boyd,Water,Pipe  Burst,Medium,In Progress,2025-07-20,,Kimberly Jenkins,West
+REQ-1046,Colleen Perkins,Water,No water Supply,Medium,Open,2025-11-06,,Sharon Michael,Central
+REQ-1047,Elijah Hurst,Electric,Power Outage,High,In Progress,2025-10-12,,Kimberly Jenkins,South
+REQ-1048,Richard Salazar,Water,No water Supply,Medium,In Progress,2025-12-21,,Kimberly Jenkins,South
+REQ-1049,Gary Davenport,Billing,Refund Request,Medium,Open,2025-07-22,,Jennifer Martinez,East
+REQ-1050,Elizabeth Perry,Electric,volatge Fluctuation,Medium,Resolved,2026-04-30,2026-05-29,Bradley Jordan,Central
+REQ-1051,Melissa Cain,Gas,Meter Error,Medium,Resolved,2025-08-23,2025-08-30,Hunter Morris,South
+REQ-1052,Kenneth Davis,Water,Pipe  Burst,Medium,Resolved,2026-06-02,2026-06-05,Daniel Hall,East
+REQ-1053,Thomas Wagner DVM,Electric,Power Outage,High,Resolved,2026-04-23,2026-05-14,Kimberly Jenkins,South
+REQ-1054,Carla Smith,Billing,Account Error,Medium,Open,2026-05-02,,Bradley Jordan,South
+REQ-1055,Timothy Davis,Electric,Meter Error,Medium,In Progress,2025-11-20,,Joseph Noble,North
+REQ-1056,Sara Sparks,Water,Water Quality,Medium,Open,2025-12-27,,Nathaniel Luna,South
+REQ-1057,Jeanette Holloway,Electric,Meter Error,Medium,Escalated,2025-08-15,,Joseph Noble,South
+REQ-1058,Larry Stephens,Gas,No Gas Supply,Medium,Escalated,2026-06-16,,Joseph Noble,East
+REQ-1059,Gregory Gonzalez,Billing,Payment Not Reflected,Medium,Resolved,2026-04-08,2026-05-04,Bradley Jordan,West
+REQ-1060,Krista Jackson,Electric,Downed Power Line,Critical,In Progress,2026-03-18,,Jeffery Thomas,East
+REQ-1061,Francisco Medina,Water,Low Pressure,Medium,In Progress,2026-06-16,,Nathaniel Luna,West
+REQ-1062,Patricia Jones,Water,Water Quality,Medium,Open,2026-02-06,,Hunter Morris,Central
+REQ-1063,Jared Giles,Billing,Refund Request,Medium,Open,2026-04-30,,Kimberly Jenkins,South
+REQ-1064,Carolyn Hill,Water,No water Supply,Medium,Open,2025-08-27,,Daniel Hall,East
+REQ-1065,Christopher Sanders,Water,Pipe  Burst,Medium,Open,2025-12-13,,Sharon Michael,South
+REQ-1066,Angela Brown,Water,No water Supply,Medium,Escalated,2026-06-28,,Jennifer Martinez,Central
+REQ-1067,Kevin Dudley,Gas,Meter Error,Medium,Escalated,2026-05-24,,Hunter Morris,Central
+REQ-1068,Corey Salazar,Water,No water Supply,Medium,Resolved,2025-10-12,2025-10-22,Daniel Hall,East
+REQ-1069,Darrell Nixon,Billing,Refund Request,Medium,In Progress,2026-03-22,,Daniel Hall,West
+REQ-1070,Katherine Mccullough,Gas,Meter Error,Medium,Escalated,2025-09-21,,Christopher Nelson,East
+REQ-1071,Stephanie James,Water,Low Pressure,Medium,Escalated,2025-09-05,,Sharon Michael,East
+REQ-1072,Mrs. Ann Vargas,Billing,Account Error,Medium,Escalated,2025-07-18,,Nathaniel Luna,Central
+REQ-1073,Brian York,Billing,Payment Not Reflected,Medium,Open,2026-02-03,,Jennifer Martinez,Central
+REQ-1074,Barbara Rich,Water,No water Supply,Medium,In Progress,2025-07-19,,Kimberly Jenkins,South
+REQ-1075,Courtney Walsh,Gas,No Gas Supply,Medium,Open,2026-06-05,,Nathaniel Luna,West
+REQ-1076,Adam Powell,Electric,Downed Power Line,Critical,Escalated,2025-08-10,,Sharon Michael,South
+REQ-1077,David Turner,Billing,Account Error,Medium,Escalated,2026-02-24,,Joseph Noble,North
+REQ-1078,Shelley Sanford,Electric,Downed Power Line,Critical,In Progress,2026-03-30,,Jennifer Martinez,West
+REQ-1079,Kim Carr,Electric,volatge Fluctuation,Medium,Open,2025-11-07,,Joseph Noble,West
+REQ-1080,Denise Patterson DDS,Water,Pipe  Burst,Medium,Escalated,2025-09-21,,Jeffery Thomas,South
+REQ-1081,Douglas Shaw,Billing,Account Error,Medium,Resolved,2026-02-22,2026-03-21,Kimberly Jenkins,Central
+REQ-1082,Stacey Beasley,Billing,Payment Not Reflected,Medium,Resolved,2025-11-15,2025-11-18,Kimberly Jenkins,South
+REQ-1083,Michelle Jones,Water,Water Quality,Medium,Resolved,2025-09-25,2025-09-28,Joseph Noble,South
+REQ-1084,Paul Oliver,Gas,Billing Issue,Medium,In Progress,2025-07-02,,Nathaniel Luna,North
+REQ-1085,Timothy Ray,Billing,Account Error,Medium,Resolved,2025-09-24,2025-10-09,Daniel Hall,North
+REQ-1086,Daniel Smith,Gas,Billing Issue,Medium,Escalated,2025-09-02,,Christopher Nelson,Central
+REQ-1087,Charles Hall,Billing,Account Error,Medium,Open,2025-12-30,,Kimberly Jenkins,West
+REQ-1088,Randall Hoffman,Billing,Payment Not Reflected,Medium,Escalated,2026-03-08,,Kimberly Jenkins,West
+REQ-1089,John Johnson,Billing,Incorrect Charge,Medium,Escalated,2026-01-07,,Daniel Hall,South
+REQ-1090,Michael Frye,Billing,Payment Not Reflected,Medium,Open,2025-12-09,,Sharon Michael,Central
+REQ-1091,Brian Daniel,Electric,Power Outage,High,Escalated,2026-04-20,,Jeffery Thomas,South
+REQ-1092,Caroline Pennington,Electric,Meter Error,Medium,Escalated,2026-01-12,,Nathaniel Luna,West
+REQ-1093,Michelle Black,Water,Water Quality,Medium,Escalated,2026-02-06,,Daniel Hall,East
+REQ-1094,Donald Campbell,Electric,Downed Power Line,Critical,Open,2025-09-25,,Christopher Nelson,East
+REQ-1095,Mary Watson MD,Gas,Gas Leak,Critical,Open,2026-06-13,,Nathaniel Luna,South
+REQ-1096,Kathy Huffman,Electric,volatge Fluctuation,Medium,In Progress,2026-04-25,,Jeffery Thomas,North
+REQ-1097,Jill Young,Gas,Billing Issue,Medium,Resolved,2025-12-22,2025-12-28,Sharon Michael,Central
+REQ-1098,Sonya Neal,Electric,volatge Fluctuation,Medium,Resolved,2026-05-04,2026-05-23,Christopher Nelson,East
+REQ-1099,Tracy Whitehead,Billing,Account Error,Medium,In Progress,2026-05-21,,Sharon Michael,South
+REQ-1100,Jeffrey Hernandez,Electric,Meter Error,Medium,Open,2025-09-12,,Christopher Nelson,East
+REQ-1101,Cynthia Johnson,Billing,Refund Request,Medium,Open,2025-10-12,,Hunter Morris,North
+REQ-1102,Kevin Chapman,Billing,Account Error,Medium,Open,2025-11-19,,Hunter Morris,West
+REQ-1103,Sheila Carter,Gas,Billing Issue,Medium,In Progress,2025-10-04,,Kimberly Jenkins,Central
+REQ-1104,Brian Schmitt,Billing,Account Error,Medium,Escalated,2025-08-29,,Kimberly Jenkins,East
+REQ-1105,Katherine Scott,Gas,Gas Leak,Critical,Resolved,2025-11-10,2025-11-18,Jeffery Thomas,Central
+REQ-1106,Shelby Cohen,Billing,Refund Request,Medium,Open,2025-10-18,,Hunter Morris,South
+REQ-1107,Katelyn Reynolds,Billing,Payment Not Reflected,Medium,Resolved,2026-02-16,2026-02-27,Kimberly Jenkins,Central
+REQ-1108,Michael Paul,Water,No water Supply,Medium,In Progress,2026-05-16,,Nathaniel Luna,West
+REQ-1109,Angela Ross,Billing,Payment Not Reflected,Medium,Escalated,2025-08-02,,Jeffery Thomas,West
+REQ-1110,Linda Harrison,Electric,Power Outage,High,Resolved,2026-03-07,2026-03-20,Nathaniel Luna,East
+REQ-1111,Tiffany Castillo,Water,Pipe  Burst,Medium,Resolved,2025-11-23,2025-12-17,Jennifer Martinez,East
+REQ-1112,Dennis Cunningham Jr.,Water,Pipe  Burst,Medium,Resolved,2026-01-23,2026-02-01,Nathaniel Luna,North
+REQ-1113,Angela Jackson,Gas,Meter Error,Medium,Open,2025-09-27,,Joseph Noble,South
+REQ-1114,Michael Daniel,Gas,Billing Issue,Medium,Resolved,2025-08-31,2025-09-25,Jennifer Martinez,Central
+REQ-1115,Ashley Wells,Water,No water Supply,Medium,In Progress,2026-01-28,,Nathaniel Luna,East
+REQ-1116,Andrew Williams,Gas,Meter Error,Medium,Open,2025-07-01,,Jennifer Martinez,South
+REQ-1117,Dr. Cheryl Burton,Water,No water Supply,Medium,Open,2025-09-18,,Kimberly Jenkins,South
+REQ-1118,Katherine Dillon,Billing,Incorrect Charge,Medium,Open,2025-09-08,,Kimberly Jenkins,West
+REQ-1119,Elizabeth Velazquez,Billing,Account Error,Medium,Resolved,2026-03-26,2026-03-28,Kimberly Jenkins,West
+REQ-1120,Allison Mejia,Electric,Power Outage,High,Escalated,2025-10-20,,Bradley Jordan,Central
+REQ-1121,Hayden Murphy,Electric,volatge Fluctuation,Medium,In Progress,2025-09-13,,Kimberly Jenkins,North
+REQ-1122,Rachel Terry,Gas,Gas Leak,Critical,Escalated,2025-08-22,,Sharon Michael,Central
+REQ-1123,Reginald Wilson,Gas,Billing Issue,Medium,Escalated,2025-11-14,,Kimberly Jenkins,Central
+REQ-1124,Patricia Roberts,Billing,Refund Request,Medium,Open,2025-08-20,,Bradley Jordan,South
+REQ-1125,Maria Dean,Gas,Meter Error,Medium,Open,2026-04-09,,Nathaniel Luna,South
+REQ-1126,Douglas Johnson,Electric,volatge Fluctuation,Medium,Open,2025-12-01,,Jeffery Thomas,Central
+REQ-1127,Angela Simpson,Billing,Refund Request,Medium,Open,2026-03-02,,Kimberly Jenkins,East
+REQ-1128,James Smith,Billing,Incorrect Charge,Medium,In Progress,2026-02-13,,Sharon Michael,South
+REQ-1129,Jonathan Taylor,Billing,Incorrect Charge,Medium,In Progress,2025-08-01,,Joseph Noble,East
+REQ-1130,Shawn Martinez,Gas,Gas Leak,Critical,Open,2026-04-05,,Kimberly Jenkins,Central
+REQ-1131,Randy Curry,Water,Pipe  Burst,Medium,Open,2025-11-01,,Kimberly Jenkins,West
+REQ-1132,Scott Martinez,Water,Pipe  Burst,Medium,Escalated,2026-05-18,,Sharon Michael,North
+REQ-1133,Alan Waters,Billing,Refund Request,Medium,Resolved,2026-06-15,2026-06-18,Nathaniel Luna,Central
+REQ-1134,Brenda Rhodes,Electric,Meter Error,Medium,Open,2026-03-31,,Jeffery Thomas,Central
+REQ-1135,Ashley Burke,Billing,Refund Request,Medium,In Progress,2025-09-02,,Daniel Hall,West
+REQ-1136,Todd Foster,Electric,Downed Power Line,Critical,Resolved,2025-12-01,2025-12-12,Hunter Morris,North
+REQ-1137,Dawn Wood,Gas,Meter Error,Medium,Escalated,2025-07-08,,Jeffery Thomas,East
+REQ-1138,Kristina Webb,Billing,Incorrect Charge,Medium,Escalated,2026-05-14,,Hunter Morris,East
+REQ-1139,Jean Rich,Water,No water Supply,Medium,Escalated,2025-10-08,,Christopher Nelson,Central
+REQ-1140,Adam Peterson,Billing,Account Error,Medium,Open,2026-03-24,,Jennifer Martinez,East
+REQ-1141,Robert Daniel,Billing,Account Error,Medium,Open,2026-03-16,,Kimberly Jenkins,Central
+REQ-1142,Karen Steele,Gas,Meter Error,Medium,Escalated,2025-07-06,,Jeffery Thomas,North
+REQ-1143,Kelly Schaefer,Electric,volatge Fluctuation,Medium,In Progress,2026-01-20,,Jennifer Martinez,North
+REQ-1144,Colton Parks,Billing,Incorrect Charge,Medium,In Progress,2026-05-01,,Jeffery Thomas,North
+REQ-1145,Leslie Velez,Gas,Billing Issue,Medium,Resolved,2025-10-11,2025-11-03,Kimberly Jenkins,West
+REQ-1146,Alice Hancock,Billing,Account Error,Medium,In Progress,2025-11-07,,Jennifer Martinez,South
+REQ-1147,Edward Graham,Billing,Payment Not Reflected,Medium,In Progress,2026-05-24,,Kimberly Jenkins,West
+REQ-1148,Amanda Peters,Water,Water Quality,Medium,Open,2026-02-04,,Kimberly Jenkins,Central
+REQ-1149,Matthew Moran,Billing,Payment Not Reflected,Medium,Escalated,2025-09-26,,Jeffery Thomas,East
+REQ-1150,Debbie Hopkins,Water,Pipe  Burst,Medium,Escalated,2026-01-15,,Nathaniel Luna,South
+REQ-1151,Joshua Owens,Billing,Payment Not Reflected,Medium,Escalated,2026-06-06,,Hunter Morris,West
+REQ-1152,Ruben Harrison,Billing,Account Error,Medium,In Progress,2025-10-18,,Christopher Nelson,South
+REQ-1153,Charles Walker,Water,No water Supply,Medium,Escalated,2026-05-08,,Jennifer Martinez,West
+REQ-1154,Brian Dean,Electric,volatge Fluctuation,Medium,Escalated,2025-07-28,,Joseph Noble,North
+REQ-1155,Mark Wilson,Billing,Refund Request,Medium,Resolved,2025-08-13,2025-09-05,Daniel Hall,North
+REQ-1156,Christopher Ingram,Water,Pipe  Burst,Medium,Resolved,2025-08-12,2025-09-04,Jeffery Thomas,Central
+REQ-1157,Mr. Carl Joseph,Electric,Power Outage,High,In Progress,2025-08-09,,Kimberly Jenkins,South
+REQ-1158,David Williams,Electric,Downed Power Line,Critical,Open,2025-08-08,,Bradley Jordan,West
+REQ-1159,Heather Stewart,Gas,Meter Error,Medium,Open,2026-06-05,,Hunter Morris,North
+REQ-1160,Christina Chen,Water,Water Quality,Medium,Resolved,2025-11-20,2025-11-25,Nathaniel Luna,Central
+REQ-1161,Brian Lowery,Billing,Payment Not Reflected,Medium,In Progress,2026-03-31,,Bradley Jordan,Central
+REQ-1162,Robert Stein,Billing,Payment Not Reflected,Medium,Escalated,2025-09-03,,Joseph Noble,South
+REQ-1163,Jeremy Cooper,Billing,Refund Request,Medium,Escalated,2026-02-18,,Christopher Nelson,West
+REQ-1164,Allison Hall,Water,Low Pressure,Medium,Open,2025-11-14,,Hunter Morris,Central
+REQ-1165,Linda Diaz,Water,Pipe  Burst,Medium,Resolved,2025-11-07,2025-12-05,Kimberly Jenkins,South
+REQ-1166,Angela Simpson,Billing,Account Error,Medium,Open,2026-02-27,,Daniel Hall,Central
+REQ-1167,Derrick Velazquez,Water,Water Quality,Medium,Resolved,2026-06-17,2026-07-14,Daniel Hall,East
+REQ-1168,Sarah Young,Electric,Power Outage,High,Escalated,2026-02-02,,Nathaniel Luna,Central
+REQ-1169,Michelle Ayala,Water,Low Pressure,Medium,In Progress,2025-08-15,,Kimberly Jenkins,South
+REQ-1170,Deanna Copeland,Electric,Power Outage,High,Resolved,2025-11-15,2025-11-17,Sharon Michael,East
+REQ-1171,Joseph Brown,Gas,Gas Leak,Critical,Resolved,2026-01-12,2026-02-05,Daniel Hall,South
+REQ-1172,James Miller,Gas,No Gas Supply,Medium,Resolved,2025-09-30,2025-10-17,Kimberly Jenkins,South
+REQ-1173,William Harris,Water,Pipe  Burst,Medium,Resolved,2026-01-06,2026-02-01,Bradley Jordan,West
+REQ-1174,Linda Novak,Electric,volatge Fluctuation,Medium,In Progress,2025-07-17,,Daniel Hall,Central
+REQ-1175,Eric Goodwin,Water,No water Supply,Medium,Escalated,2026-06-21,,Kimberly Jenkins,Central
+REQ-1176,John Mendez,Electric,Downed Power Line,Critical,Resolved,2025-07-19,2025-08-12,Kimberly Jenkins,Central
+REQ-1177,Matthew Soto,Billing,Refund Request,Medium,Open,2025-07-18,,Nathaniel Luna,West
+REQ-1178,Laura Alexander,Electric,Meter Error,Medium,In Progress,2025-08-01,,Bradley Jordan,West
+REQ-1179,Michael Lloyd,Water,Pipe  Burst,Medium,Open,2026-04-18,,Christopher Nelson,North
+REQ-1180,Hannah Vargas,Water,Pipe  Burst,Medium,Open,2026-05-10,,Nathaniel Luna,Central
+REQ-1181,Stephanie Ramirez,Gas,Billing Issue,Medium,Escalated,2025-12-21,,Jennifer Martinez,West
+REQ-1182,Jeffrey Evans,Gas,Billing Issue,Medium,Open,2025-10-21,,Sharon Michael,West
+REQ-1183,Brian Mcneil,Water,No water Supply,Medium,Resolved,2026-03-09,2026-03-24,Jeffery Thomas,South
+REQ-1184,Robert May,Water,No water Supply,Medium,Resolved,2025-09-23,2025-10-22,Hunter Morris,North
+REQ-1185,Billy Wood,Billing,Refund Request,Medium,In Progress,2026-04-27,,Jeffery Thomas,North
+REQ-1186,Matthew Miller III,Gas,Gas Leak,Critical,Open,2026-01-09,,Nathaniel Luna,South
+REQ-1187,Jessica Jenkins,Gas,Gas Leak,Critical,In Progress,2025-09-01,,Nathaniel Luna,South
+REQ-1188,Melanie Snyder,Water,Low Pressure,Medium,Open,2026-02-07,,Joseph Noble,South
+REQ-1189,Michael Vasquez,Water,Low Pressure,Medium,Open,2025-07-25,,Christopher Nelson,South
+REQ-1190,Andrea Thompson,Electric,Meter Error,Medium,In Progress,2025-08-31,,Hunter Morris,North
+REQ-1191,Erica Bennett,Gas,Meter Error,Medium,Open,2026-04-25,,Daniel Hall,Central
+REQ-1192,Shannon Brewer,Electric,Power Outage,High,Escalated,2025-11-11,,Hunter Morris,Central
+REQ-1193,William Frederick,Electric,Downed Power Line,Critical,In Progress,2025-08-18,,Christopher Nelson,Central
+REQ-1194,Jonathan James,Water,Pipe  Burst,Medium,Open,2026-05-28,,Jeffery Thomas,West
+REQ-1195,Angela Brown,Billing,Incorrect Charge,Medium,Escalated,2025-06-29,,Jeffery Thomas,North
+REQ-1196,William Grant,Electric,Meter Error,Medium,In Progress,2026-05-26,,Joseph Noble,East
+REQ-1197,Carrie Boyle,Water,Pipe  Burst,Medium,Resolved,2025-11-08,2025-11-25,Sharon Michael,West
+REQ-1198,David Barker,Electric,Power Outage,High,In Progress,2025-11-20,,Jeffery Thomas,South
+REQ-1199,Timothy Day,Billing,Refund Request,Medium,Escalated,2025-12-06,,Daniel Hall,North
+REQ-1200,Anthony Oconnell,Water,Pipe  Burst,Medium,Resolved,2025-07-23,2025-08-01,Hunter Morris,South
+REQ-1201,Brandi Bray,Billing,Incorrect Charge,Medium,Open,2026-05-16,,Bradley Jordan,West
+REQ-1202,Shawna Jackson,Electric,Meter Error,Medium,In Progress,2025-09-17,,Christopher Nelson,Central
+REQ-1203,Holly Thomas,Water,No water Supply,Medium,Escalated,2025-12-29,,Daniel Hall,North
+REQ-1204,Misty Clark,Water,Water Quality,Medium,Resolved,2026-05-06,2026-05-25,Jennifer Martinez,South
+REQ-1205,William Hughes,Gas,Billing Issue,Medium,In Progress,2026-05-04,,Hunter Morris,Central
+REQ-1206,Carol Harvey,Water,No water Supply,Medium,Resolved,2025-09-08,2025-09-16,Daniel Hall,Central
+REQ-1207,Victoria Hall,Electric,Meter Error,Medium,Open,2026-03-28,,Kimberly Jenkins,East
+REQ-1208,Jennifer Hamilton,Water,Water Quality,Medium,Open,2026-03-28,,Joseph Noble,Central
+REQ-1209,Andrew Williams,Billing,Incorrect Charge,Medium,In Progress,2025-08-08,,Christopher Nelson,North
+REQ-1210,Dr. Eric Cook DDS,Gas,Billing Issue,Medium,Escalated,2025-11-08,,Hunter Morris,South
+REQ-1211,Corey Rice,Water,Water Quality,Medium,Resolved,2025-09-11,2025-10-01,Bradley Jordan,North
+REQ-1212,Ray Burns,Gas,No Gas Supply,Medium,Open,2025-07-18,,Bradley Jordan,East
+REQ-1213,Christopher Campbell,Billing,Account Error,Medium,Escalated,2025-08-22,,Jeffery Thomas,West
+REQ-1214,Charlotte Roman,Water,Low Pressure,Medium,Open,2026-01-03,,Daniel Hall,North
+REQ-1215,Megan Escobar,Water,Pipe  Burst,Medium,Resolved,2026-06-05,2026-06-13,Daniel Hall,Central
+REQ-1216,Sherry Wallace,Electric,Power Outage,High,In Progress,2026-01-25,,Nathaniel Luna,South
+REQ-1217,Steven Smith,Water,Water Quality,Medium,Resolved,2026-04-28,2026-04-29,Jeffery Thomas,West
+REQ-1218,Kenneth Gardner,Gas,No Gas Supply,Medium,Escalated,2025-09-29,,Nathaniel Luna,Central
+REQ-1219,Carrie Bryant,Water,No water Supply,Medium,Escalated,2026-06-07,,Daniel Hall,North
+REQ-1220,Joshua Morales,Billing,Incorrect Charge,Medium,Resolved,2025-09-07,2025-09-21,Sharon Michael,West
+REQ-1221,Krista Peterson,Billing,Refund Request,Medium,Open,2025-12-03,,Christopher Nelson,East
+REQ-1222,Thomas Rogers,Gas,Billing Issue,Medium,Resolved,2026-05-14,2026-05-28,Bradley Jordan,South
+REQ-1223,Connor Dyer,Billing,Account Error,Medium,Open,2025-12-08,,Kimberly Jenkins,East
+REQ-1224,Elizabeth Lee,Gas,Meter Error,Medium,In Progress,2026-05-20,,Jennifer Martinez,North
+REQ-1225,Timothy Holt,Gas,Meter Error,Medium,Resolved,2025-08-02,2025-08-29,Joseph Noble,South
+REQ-1226,Christopher Mason,Electric,volatge Fluctuation,Medium,Resolved,2026-03-19,2026-03-25,Sharon Michael,South
+REQ-1227,Marissa Duran,Electric,volatge Fluctuation,Medium,Escalated,2025-11-03,,Sharon Michael,Central
+REQ-1228,Angelica Lopez,Billing,Refund Request,Medium,Resolved,2026-04-12,2026-04-27,Bradley Jordan,West
+REQ-1229,William Santos,Billing,Refund Request,Medium,Resolved,2025-08-30,2025-09-01,Hunter Morris,Central
+REQ-1230,Brian English,Electric,Meter Error,Medium,Escalated,2025-11-09,,Christopher Nelson,North
+REQ-1231,Sarah Miller,Water,Water Quality,Medium,Open,2025-08-02,,Bradley Jordan,Central
+REQ-1232,Haley Mcmahon,Billing,Account Error,Medium,Open,2025-11-10,,Sharon Michael,South
+REQ-1233,Heather Austin,Water,Pipe  Burst,Medium,In Progress,2026-05-28,,Jeffery Thomas,North
+REQ-1234,Virginia Humphrey,Water,No water Supply,Medium,In Progress,2026-06-08,,Nathaniel Luna,West
+REQ-1235,Alexandra James,Billing,Payment Not Reflected,Medium,Resolved,2025-12-20,2026-01-19,Kimberly Jenkins,West
+REQ-1236,Brianna Dawson,Billing,Refund Request,Medium,Open,2025-08-09,,Hunter Morris,North
+REQ-1237,Alexis Smith,Water,No water Supply,Medium,Escalated,2026-02-03,,Kimberly Jenkins,Central
+REQ-1238,John Hendricks,Gas,Meter Error,Medium,Open,2025-09-03,,Joseph Noble,East
+REQ-1239,Kyle Richardson,Water,Pipe  Burst,Medium,In Progress,2025-08-28,,Bradley Jordan,East
+REQ-1240,David Huff,Billing,Refund Request,Medium,In Progress,2025-07-20,,Jennifer Martinez,North
+REQ-1241,Tracey Smith,Billing,Refund Request,Medium,Open,2025-12-25,,Kimberly Jenkins,South
+REQ-1242,Michael Armstrong,Gas,Meter Error,Medium,Escalated,2026-03-22,,Nathaniel Luna,South
+REQ-1243,Sarah Gutierrez,Gas,Gas Leak,Critical,Resolved,2026-05-08,2026-05-25,Jennifer Martinez,Central
+REQ-1244,Kathleen Crawford,Electric,Meter Error,Medium,In Progress,2025-08-27,,Daniel Hall,South
+REQ-1245,Jason Bush,Gas,No Gas Supply,Medium,In Progress,2025-11-16,,Christopher Nelson,West
+REQ-1246,James Knox,Water,Low Pressure,Medium,Escalated,2025-08-20,,Kimberly Jenkins,West
+REQ-1247,Joanna Murphy,Gas,No Gas Supply,Medium,Resolved,2025-10-31,2025-11-29,Nathaniel Luna,East
+REQ-1248,Craig Jones,Billing,Account Error,Medium,Resolved,2025-12-15,2026-01-01,Jennifer Martinez,West
+REQ-1249,Matthew Gilbert,Gas,No Gas Supply,Medium,In Progress,2026-02-20,,Christopher Nelson,West
+REQ-1250,Dylan Williams,Water,No water Supply,Medium,Open,2026-02-03,,Bradley Jordan,South
+REQ-1251,Benjamin Hutchinson,Water,Pipe  Burst,Medium,In Progress,2025-11-17,,Bradley Jordan,South
+REQ-1252,Kenneth Curry,Billing,Refund Request,Medium,Open,2025-11-28,,Christopher Nelson,West
+REQ-1253,Joseph Cannon,Water,Low Pressure,Medium,Escalated,2026-05-18,,Hunter Morris,South
+REQ-1254,Frank Brandt,Electric,Meter Error,Medium,Open,2025-07-31,,Hunter Morris,South
+REQ-1255,Megan Johnson,Gas,Gas Leak,Critical,Resolved,2025-10-30,2025-11-22,Joseph Noble,West
+REQ-1256,Jessica Johnson,Billing,Incorrect Charge,Medium,Open,2026-06-19,,Kimberly Jenkins,South
+REQ-1257,Joseph Ruiz,Gas,Billing Issue,Medium,Open,2026-02-01,,Nathaniel Luna,East
+REQ-1258,Benjamin Carter,Electric,Power Outage,High,In Progress,2025-11-26,,Sharon Michael,West
+REQ-1259,Thomas Davis,Electric,Power Outage,High,Escalated,2025-08-27,,Jennifer Martinez,North
+REQ-1260,Jonathan Edwards,Gas,No Gas Supply,Medium,Resolved,2025-11-21,2025-11-22,Sharon Michael,East
+REQ-1261,Daniel Valencia,Gas,Billing Issue,Medium,In Progress,2025-07-23,,Bradley Jordan,Central
+REQ-1262,Melissa Mcdaniel MD,Water,No water Supply,Medium,Open,2025-12-11,,Jeffery Thomas,North
+REQ-1263,Kristen Brown,Billing,Refund Request,Medium,Resolved,2026-06-20,2026-07-02,Bradley Jordan,East
+REQ-1264,Paul Love,Gas,Gas Leak,Critical,Resolved,2026-04-21,2026-04-23,Hunter Morris,Central
+REQ-1265,Alicia Bush,Water,Low Pressure,Medium,Escalated,2025-07-07,,Jeffery Thomas,South
+REQ-1266,Joshua White,Gas,Gas Leak,Critical,Escalated,2026-06-10,,Kimberly Jenkins,South
+REQ-1267,Linda Brooks,Electric,volatge Fluctuation,Medium,Open,2026-01-18,,Kimberly Jenkins,Central
+REQ-1268,Kerry Swanson,Billing,Account Error,Medium,Resolved,2026-06-10,2026-07-05,Nathaniel Luna,East
+REQ-1269,Jason Floyd,Water,No water Supply,Medium,Resolved,2026-02-09,2026-02-13,Hunter Morris,West
+REQ-1270,David Erickson,Billing,Account Error,Medium,Escalated,2026-01-06,,Joseph Noble,West
+REQ-1271,Miranda Moody,Billing,Refund Request,Medium,Resolved,2026-05-17,2026-06-10,Daniel Hall,North
+REQ-1272,Kevin Barnes,Billing,Payment Not Reflected,Medium,Resolved,2026-01-15,2026-01-19,Bradley Jordan,East
+REQ-1273,Erin Friedman,Water,Water Quality,Medium,Escalated,2025-08-24,,Daniel Hall,South
+REQ-1274,Sara Fernandez,Billing,Refund Request,Medium,Escalated,2026-06-07,,Hunter Morris,Central
+REQ-1275,Denise Castillo,Billing,Refund Request,Medium,Open,2026-05-21,,Daniel Hall,East
+REQ-1276,Jerry Beard,Gas,Gas Leak,Critical,In Progress,2025-08-21,,Jeffery Thomas,North
+REQ-1277,Ryan Simpson,Gas,Gas Leak,Critical,In Progress,2025-08-02,,Hunter Morris,East
+REQ-1278,Jon Mcgrath,Billing,Incorrect Charge,Medium,In Progress,2025-07-16,,Jeffery Thomas,East
+REQ-1279,Omar Khan,Water,Pipe  Burst,Medium,Open,2025-09-08,,Joseph Noble,Central
+REQ-1280,Laurie Norris,Water,Pipe  Burst,Medium,Resolved,2025-07-31,2025-08-09,Nathaniel Luna,North
+REQ-1281,Todd Jones,Electric,volatge Fluctuation,Medium,Escalated,2025-10-06,,Daniel Hall,Central
+REQ-1282,Sharon Reed,Electric,Meter Error,Medium,Resolved,2025-07-03,2025-07-18,Nathaniel Luna,Central
+REQ-1283,Mercedes Cobb,Water,Pipe  Burst,Medium,In Progress,2026-04-27,,Joseph Noble,North
+REQ-1284,Daniel Garner,Billing,Payment Not Reflected,Medium,Escalated,2026-05-15,,Hunter Morris,East
+REQ-1285,Rebecca Anderson,Electric,Meter Error,Medium,Resolved,2026-04-09,2026-05-02,Joseph Noble,East
+REQ-1286,Robin Watkins,Gas,Gas Leak,Critical,In Progress,2026-04-18,,Nathaniel Luna,West
+REQ-1287,Anthony Moss,Electric,Meter Error,Medium,Resolved,2025-11-01,2025-11-27,Jennifer Martinez,South
+REQ-1288,Rachel Gordon,Electric,Power Outage,High,Resolved,2025-12-07,2025-12-30,Jeffery Thomas,Central
+REQ-1289,Barry Stevenson Jr.,Billing,Account Error,Medium,Open,2026-04-25,,Hunter Morris,North
+REQ-1290,Alexandria Garcia,Billing,Account Error,Medium,Resolved,2026-04-24,2026-05-23,Jennifer Martinez,Central
+REQ-1291,Michael Guerra,Gas,No Gas Supply,Medium,Escalated,2025-10-14,,Christopher Nelson,North
+REQ-1292,Randy Blackwell,Gas,Meter Error,Medium,In Progress,2026-04-07,,Hunter Morris,South
+REQ-1293,Karen Burke PhD,Water,Water Quality,Medium,Open,2026-02-20,,Nathaniel Luna,Central
+REQ-1294,Lindsay Melton,Water,Low Pressure,Medium,Resolved,2025-08-18,2025-09-05,Bradley Jordan,Central
+REQ-1295,Jennifer Brown,Gas,No Gas Supply,Medium,In Progress,2025-07-26,,Sharon Michael,Central
+REQ-1296,Richard Aguilar,Water,No water Supply,Medium,Open,2026-05-18,,Christopher Nelson,Central
+REQ-1297,Amy Wilson,Water,Low Pressure,Medium,Escalated,2025-08-16,,Christopher Nelson,West
+REQ-1298,Michael Davis,Water,Water Quality,Medium,Escalated,2026-02-23,,Daniel Hall,East
+REQ-1299,Carrie Conley,Billing,Incorrect Charge,Medium,Open,2026-04-09,,Jeffery Thomas,West
+REQ-1300,Jessica Baker,Billing,Account Error,Medium,In Progress,2026-01-05,,Sharon Michael,South
+REQ-1301,Sarah Diaz,Water,Water Quality,Medium,Resolved,2025-12-06,2025-12-11,Hunter Morris,Central
+REQ-1302,Patrick Montgomery Jr.,Electric,Meter Error,Medium,In Progress,2025-11-02,,Bradley Jordan,East
+REQ-1303,Shane Harris,Billing,Payment Not Reflected,Medium,In Progress,2026-05-10,,Christopher Nelson,East
+REQ-1304,William Jones,Billing,Account Error,Medium,In Progress,2026-04-08,,Hunter Morris,Central
+REQ-1305,James Jones MD,Water,Low Pressure,Medium,In Progress,2025-10-16,,Jennifer Martinez,West
+REQ-1306,Maria Moore,Billing,Refund Request,Medium,Escalated,2026-06-17,,Bradley Jordan,West
+REQ-1307,Joseph Collier,Billing,Payment Not Reflected,Medium,In Progress,2025-09-03,,Hunter Morris,North
+REQ-1308,Emily Jones,Electric,Meter Error,Medium,Escalated,2025-08-27,,Jeffery Thomas,East
+REQ-1309,David Roy,Electric,Power Outage,High,Escalated,2026-04-21,,Kimberly Jenkins,East
+REQ-1310,David Smith,Billing,Refund Request,Medium,Open,2025-12-05,,Christopher Nelson,Central
+REQ-1311,Kyle Armstrong,Gas,Meter Error,Medium,Resolved,2026-05-22,2026-06-04,Jennifer Martinez,West
+REQ-1312,Glen Clarke,Water,No water Supply,Medium,In Progress,2026-05-10,,Daniel Hall,East
+REQ-1313,Jenna Skinner,Water,Water Quality,Medium,In Progress,2026-03-19,,Sharon Michael,Central
+REQ-1314,Isabella Torres,Billing,Incorrect Charge,Medium,Open,2026-06-09,,Joseph Noble,East
+REQ-1315,Johnny Adams,Billing,Account Error,Medium,In Progress,2025-08-22,,Jennifer Martinez,South
+REQ-1316,Paul Martin,Water,Water Quality,Medium,In Progress,2025-12-09,,Sharon Michael,East
+REQ-1317,Kayla Stevens,Water,Pipe  Burst,Medium,Resolved,2025-10-28,2025-11-24,Christopher Nelson,East
+REQ-1318,Dylan Liu,Water,No water Supply,Medium,Escalated,2025-09-03,,Kimberly Jenkins,North
+REQ-1319,Norma Reyes,Billing,Refund Request,Medium,In Progress,2026-06-02,,Sharon Michael,West
+REQ-1320,Paul Monroe,Gas,Billing Issue,Medium,In Progress,2025-07-15,,Nathaniel Luna,North
+REQ-1321,Donald Perez,Electric,volatge Fluctuation,Medium,Open,2025-11-15,,Hunter Morris,West
+REQ-1322,Robert Mullen,Gas,Billing Issue,Medium,In Progress,2025-11-30,,Jennifer Martinez,Central
+REQ-1323,Amy Willis,Billing,Incorrect Charge,Medium,In Progress,2025-10-06,,Nathaniel Luna,Central
+REQ-1324,Katherine Garcia,Water,Pipe  Burst,Medium,Escalated,2026-01-19,,Joseph Noble,West
+REQ-1325,Robert Ramos,Water,Water Quality,Medium,Resolved,2025-08-20,2025-09-05,Nathaniel Luna,South
+REQ-1326,Jennifer Myers,Water,Water Quality,Medium,In Progress,2026-01-27,,Kimberly Jenkins,South
+REQ-1327,Joan Jackson,Billing,Refund Request,Medium,Escalated,2026-01-01,,Jennifer Martinez,East
+REQ-1328,Douglas Brewer,Water,No water Supply,Medium,Escalated,2025-12-08,,Hunter Morris,South
+REQ-1329,Alexis Hamilton,Water,No water Supply,Medium,Resolved,2026-05-19,2026-05-31,Jeffery Thomas,East
+REQ-1330,Mrs. Maria Vasquez,Billing,Payment Not Reflected,Medium,In Progress,2025-09-26,,Kimberly Jenkins,Central
+REQ-1331,Chris Brown,Water,Low Pressure,Medium,Open,2025-08-17,,Sharon Michael,South
+REQ-1332,Julie Molina,Gas,Gas Leak,Critical,In Progress,2025-08-06,,Nathaniel Luna,North
+REQ-1333,James Tucker,Electric,Downed Power Line,Critical,Resolved,2025-10-30,2025-11-03,Joseph Noble,North
+REQ-1334,Denise Haas,Gas,Billing Issue,Medium,Escalated,2025-10-27,,Nathaniel Luna,East
+REQ-1335,Stephen Reid,Water,Water Quality,Medium,Open,2026-05-14,,Sharon Michael,South
+REQ-1336,Cheryl Bryant,Electric,volatge Fluctuation,Medium,Escalated,2026-03-30,,Christopher Nelson,West
+REQ-1337,Jodi Stephens DVM,Billing,Payment Not Reflected,Medium,Resolved,2026-06-09,2026-06-10,Kimberly Jenkins,Central
+REQ-1338,Linda Obrien,Electric,Meter Error,Medium,Resolved,2025-11-08,2025-11-29,Jennifer Martinez,Central
+REQ-1339,Tyler Hernandez,Billing,Payment Not Reflected,Medium,Escalated,2026-02-09,,Nathaniel Luna,North
+REQ-1340,Amanda Jackson,Water,Low Pressure,Medium,Escalated,2025-08-01,,Kimberly Jenkins,South
+REQ-1341,Ryan Sanchez,Electric,Meter Error,Medium,Resolved,2025-09-11,2025-10-03,Nathaniel Luna,South
+REQ-1342,Erica Olsen,Billing,Account Error,Medium,Resolved,2026-05-15,2026-05-28,Bradley Jordan,South
+REQ-1343,Sandra Garcia,Gas,Billing Issue,Medium,Resolved,2026-02-21,2026-02-22,Kimberly Jenkins,West
+REQ-1344,Jason Young Jr.,Gas,Billing Issue,Medium,Resolved,2026-01-11,2026-01-21,Sharon Michael,Central
+REQ-1345,Heather Rojas,Electric,Meter Error,Medium,Resolved,2025-07-09,2025-07-17,Christopher Nelson,North
+REQ-1346,Dr. Danny Ramsey,Billing,Refund Request,Medium,In Progress,2025-12-03,,Jennifer Martinez,East
+REQ-1347,Jose Haas,Electric,Meter Error,Medium,Resolved,2025-08-18,2025-08-26,Nathaniel Luna,South
+REQ-1348,Becky Martin,Billing,Payment Not Reflected,Medium,Escalated,2025-08-22,,Hunter Morris,West
+REQ-1349,Christopher Becker,Billing,Payment Not Reflected,Medium,In Progress,2025-07-15,,Sharon Michael,North
+REQ-1350,Michael Vargas,Billing,Refund Request,Medium,Open,2025-09-13,,Bradley Jordan,North
+REQ-1351,Derek Dudley,Gas,No Gas Supply,Medium,In Progress,2026-01-12,,Jennifer Martinez,West
+REQ-1352,Diana Webb,Electric,volatge Fluctuation,Medium,Escalated,2026-05-13,,Jennifer Martinez,West
+REQ-1353,Ricardo Brown,Electric,Downed Power Line,Critical,In Progress,2025-10-09,,Daniel Hall,West
+REQ-1354,Heather Mccoy,Electric,Downed Power Line,Critical,Resolved,2026-06-17,2026-06-30,Kimberly Jenkins,North
+REQ-1355,Joseph Lopez,Gas,Gas Leak,Critical,Open,2025-11-24,,Hunter Morris,North
+REQ-1356,Joseph Mercado,Electric,Power Outage,High,Escalated,2026-06-12,,Kimberly Jenkins,West
+REQ-1357,Kevin Freeman,Gas,No Gas Supply,Medium,Escalated,2025-12-19,,Daniel Hall,West
+REQ-1358,Nancy Walker,Billing,Account Error,Medium,Open,2025-07-14,,Jennifer Martinez,South
+REQ-1359,Peter Black,Water,No water Supply,Medium,In Progress,2025-09-26,,Daniel Hall,Central
+REQ-1360,Joshua Goodman,Gas,No Gas Supply,Medium,Open,2026-06-17,,Kimberly Jenkins,West
+REQ-1361,Nicholas Clay,Billing,Account Error,Medium,In Progress,2026-02-22,,Jeffery Thomas,East
+REQ-1362,Anthony Jordan,Gas,Meter Error,Medium,In Progress,2026-05-02,,Christopher Nelson,West
+REQ-1363,Kyle Lane,Electric,volatge Fluctuation,Medium,In Progress,2026-05-25,,Bradley Jordan,Central
+REQ-1364,Cynthia Thompson,Electric,Downed Power Line,Critical,Open,2026-02-23,,Christopher Nelson,West
+REQ-1365,Erin Edwards,Billing,Payment Not Reflected,Medium,In Progress,2026-05-31,,Joseph Noble,Central
+REQ-1366,Jordan Washington,Water,Low Pressure,Medium,Resolved,2025-09-06,2025-09-26,Hunter Morris,South
+REQ-1367,Joanna Jones,Water,Low Pressure,Medium,In Progress,2025-11-29,,Kimberly Jenkins,East
+REQ-1368,Taylor Palmer,Electric,volatge Fluctuation,Medium,Escalated,2025-09-17,,Jeffery Thomas,North
+REQ-1369,Brandon Galvan,Water,Pipe  Burst,Medium,Resolved,2025-07-07,2025-07-21,Daniel Hall,South
+REQ-1370,Sarah Munoz,Water,Pipe  Burst,Medium,In Progress,2025-09-26,,Jeffery Thomas,South
+REQ-1371,Zachary Peters,Gas,Meter Error,Medium,In Progress,2025-11-03,,Christopher Nelson,Central
+REQ-1372,Richard Willis,Billing,Account Error,Medium,In Progress,2025-12-12,,Nathaniel Luna,East
+REQ-1373,Heather Simon,Gas,Meter Error,Medium,Open,2025-11-10,,Hunter Morris,North
+REQ-1374,Mia Sexton,Gas,Gas Leak,Critical,Resolved,2025-12-17,2026-01-08,Sharon Michael,Central
+REQ-1375,Diana Walter,Electric,Power Outage,High,In Progress,2025-09-01,,Jennifer Martinez,South
+REQ-1376,Edward James,Billing,Payment Not Reflected,Medium,Resolved,2026-01-24,2026-02-23,Christopher Nelson,South
+REQ-1377,Patrick Williamson,Gas,Gas Leak,Critical,Escalated,2026-02-24,,Sharon Michael,South
+REQ-1378,Katherine Casey,Billing,Payment Not Reflected,Medium,Resolved,2026-02-04,2026-02-17,Jeffery Thomas,Central
+REQ-1379,Jeffrey Wells,Water,Water Quality,Medium,Resolved,2025-12-26,2026-01-12,Jeffery Thomas,West
+REQ-1380,Christopher Stuart,Electric,Downed Power Line,Critical,Resolved,2026-03-16,2026-03-28,Hunter Morris,West
+REQ-1381,Alicia Copeland,Electric,volatge Fluctuation,Medium,In Progress,2026-06-20,,Kimberly Jenkins,Central
+REQ-1382,Darlene Duncan,Billing,Refund Request,Medium,In Progress,2026-03-20,,Hunter Morris,South
+REQ-1383,Michelle Peterson,Billing,Payment Not Reflected,Medium,Escalated,2025-09-20,,Hunter Morris,East
+REQ-1384,Randall Boyd,Billing,Account Error,Medium,Escalated,2026-04-03,,Hunter Morris,South
+REQ-1385,Christina Coffey,Gas,Billing Issue,Medium,In Progress,2025-09-24,,Christopher Nelson,Central
+REQ-1386,Steven Holder,Electric,Power Outage,High,Open,2026-06-25,,Daniel Hall,South
+REQ-1387,Robert Lewis,Gas,Gas Leak,Critical,In Progress,2026-06-24,,Nathaniel Luna,Central
+REQ-1388,Pamela Moore,Billing,Refund Request,Medium,Open,2025-08-16,,Sharon Michael,West
+REQ-1389,Veronica Watson,Billing,Incorrect Charge,Medium,Open,2025-09-29,,Jennifer Martinez,West
+REQ-1390,Anthony Sanders,Electric,Power Outage,High,Resolved,2025-09-27,2025-10-07,Christopher Nelson,Central
+REQ-1391,Darrell Oconnor,Billing,Payment Not Reflected,Medium,Open,2026-05-10,,Jennifer Martinez,South
+REQ-1392,Seth Fernandez,Gas,No Gas Supply,Medium,Resolved,2025-12-29,2026-01-07,Daniel Hall,North
+REQ-1393,Ashley James,Water,Pipe  Burst,Medium,Escalated,2025-09-12,,Nathaniel Luna,South
+REQ-1394,Terry Lopez,Water,No water Supply,Medium,Open,2026-05-12,,Daniel Hall,West
+REQ-1395,Joshua Graham,Billing,Account Error,Medium,Open,2025-08-06,,Christopher Nelson,South
+REQ-1396,Patrick Byrd,Electric,Downed Power Line,Critical,Escalated,2025-08-02,,Hunter Morris,Central
+REQ-1397,Kelly Sexton,Electric,Power Outage,High,In Progress,2026-03-12,,Sharon Michael,West
+REQ-1398,Seth Mcdonald,Water,No water Supply,Medium,Open,2025-07-13,,Kimberly Jenkins,Central
+REQ-1399,Joyce York,Electric,volatge Fluctuation,Medium,Resolved,2026-06-20,2026-06-27,Sharon Michael,South
+REQ-1400,Melanie Brady,Billing,Incorrect Charge,Medium,Resolved,2026-04-06,2026-04-25,Nathaniel Luna,Central
+REQ-1401,Eric Miller,Billing,Refund Request,Medium,Escalated,2026-04-18,,Bradley Jordan,Central
+REQ-1402,Stanley Phelps,Water,No water Supply,Medium,Open,2025-11-17,,Nathaniel Luna,North
+REQ-1403,Scott Salas,Water,Pipe  Burst,Medium,Resolved,2026-06-13,2026-07-04,Kimberly Jenkins,West
+REQ-1404,Andrew Kelley,Billing,Payment Not Reflected,Medium,Resolved,2025-09-18,2025-10-01,Daniel Hall,South
+REQ-1405,Vincent Roberts,Billing,Incorrect Charge,Medium,Resolved,2026-02-22,2026-03-17,Bradley Jordan,North
+REQ-1406,Timothy Greene,Water,Low Pressure,Medium,Escalated,2025-06-29,,Joseph Noble,West
+REQ-1407,Stephen Richmond,Water,Water Quality,Medium,Open,2026-05-13,,Christopher Nelson,East
+REQ-1408,Robert Whitaker,Billing,Refund Request,Medium,Resolved,2026-05-07,2026-05-12,Bradley Jordan,South
+REQ-1409,Emily Walker,Billing,Account Error,Medium,Escalated,2026-05-07,,Christopher Nelson,North
+REQ-1410,Scott Hernandez,Water,No water Supply,Medium,Resolved,2025-12-13,2025-12-14,Kimberly Jenkins,West
+REQ-1411,Jesus Griffith,Billing,Incorrect Charge,Medium,In Progress,2025-09-09,,Jennifer Martinez,South
+REQ-1412,Mrs. Michelle Cline,Billing,Payment Not Reflected,Medium,In Progress,2026-02-11,,Kimberly Jenkins,East
+REQ-1413,Justin Mack,Billing,Payment Not Reflected,Medium,Open,2026-04-04,,Daniel Hall,East
+REQ-1414,Connie Villegas,Billing,Refund Request,Medium,Escalated,2026-05-20,,Hunter Morris,East
+REQ-1415,William Michael,Gas,Billing Issue,Medium,In Progress,2025-11-06,,Bradley Jordan,South
+REQ-1416,Joseph Flynn,Water,No water Supply,Medium,Escalated,2026-01-09,,Sharon Michael,West
+REQ-1417,Jonathan Key,Water,Pipe  Burst,Medium,Resolved,2025-11-20,2025-12-17,Sharon Michael,South
+REQ-1418,Caroline Hart,Water,Water Quality,Medium,In Progress,2025-10-26,,Hunter Morris,South
+REQ-1419,Dawn Pham,Billing,Refund Request,Medium,Resolved,2025-07-08,2025-07-29,Jeffery Thomas,Central
+REQ-1420,Amanda Cummings,Gas,Meter Error,Medium,Escalated,2026-02-05,,Daniel Hall,East
+REQ-1421,Kelly Mcdonald,Electric,volatge Fluctuation,Medium,In Progress,2025-07-14,,Jennifer Martinez,North
+REQ-1422,Kirk Castaneda,Billing,Payment Not Reflected,Medium,Escalated,2026-01-30,,Bradley Jordan,West
+REQ-1423,Christina Yoder,Billing,Payment Not Reflected,Medium,Resolved,2026-02-25,2026-03-06,Joseph Noble,West
+REQ-1424,Gloria Hernandez,Billing,Incorrect Charge,Medium,Escalated,2025-08-26,,Jeffery Thomas,Central
+REQ-1425,Albert Howard,Billing,Account Error,Medium,Open,2025-12-26,,Jennifer Martinez,Central
+REQ-1426,Connor Richards,Electric,Power Outage,High,In Progress,2025-07-27,,Hunter Morris,South
+REQ-1427,Dylan Peterson,Electric,Downed Power Line,Critical,Resolved,2025-11-20,2025-11-24,Christopher Nelson,North
+REQ-1428,Christopher King,Water,Low Pressure,Medium,In Progress,2025-11-12,,Hunter Morris,West
+REQ-1429,Emily Lindsey,Billing,Payment Not Reflected,Medium,Resolved,2026-06-16,2026-07-02,Bradley Jordan,East
+REQ-1430,Raven Murray,Billing,Incorrect Charge,Medium,Open,2026-04-17,,Hunter Morris,East
+REQ-1431,Patricia Zuniga,Water,Pipe  Burst,Medium,In Progress,2025-10-05,,Jeffery Thomas,East
+REQ-1432,Joel Blackwell,Billing,Incorrect Charge,Medium,Escalated,2025-07-07,,Jeffery Thomas,East
+REQ-1433,Rachael Porter,Electric,Meter Error,Medium,Open,2025-06-30,,Bradley Jordan,North
+REQ-1434,Michael Jones,Water,No water Supply,Medium,In Progress,2026-02-24,,Jennifer Martinez,South
+REQ-1435,Ariel Stafford,Gas,Meter Error,Medium,Escalated,2025-11-04,,Nathaniel Luna,West
+REQ-1436,Tyrone Rogers,Gas,No Gas Supply,Medium,Escalated,2025-12-08,,Christopher Nelson,Central
+REQ-1437,Stephen Hill,Gas,Billing Issue,Medium,Escalated,2025-12-11,,Christopher Nelson,South
+REQ-1438,Amanda Price,Gas,Meter Error,Medium,Open,2025-09-06,,Bradley Jordan,Central
+REQ-1439,Daniel Allen,Gas,Meter Error,Medium,Resolved,2026-03-20,2026-04-04,Bradley Jordan,East
+REQ-1440,Samantha Murray,Billing,Refund Request,Medium,Escalated,2025-08-20,,Daniel Hall,Central
+REQ-1441,Dean Mills,Electric,Meter Error,Medium,Resolved,2025-11-06,2025-11-26,Joseph Noble,East
+REQ-1442,Curtis Ramsey,Electric,volatge Fluctuation,Medium,Resolved,2026-04-29,2026-05-07,Kimberly Jenkins,North
+REQ-1443,Paul Terry,Gas,Meter Error,Medium,In Progress,2025-10-10,,Daniel Hall,West
+REQ-1444,Kevin Johnson,Gas,Billing Issue,Medium,Escalated,2026-03-25,,Jeffery Thomas,Central
+REQ-1445,Amy Weber,Gas,No Gas Supply,Medium,Escalated,2026-02-01,,Joseph Noble,South
+REQ-1446,James Solomon,Water,Pipe  Burst,Medium,Open,2025-12-27,,Christopher Nelson,West
+REQ-1447,Andrew Chase,Gas,No Gas Supply,Medium,Escalated,2025-09-14,,Jennifer Martinez,West
+REQ-1448,Richard Cooper,Billing,Account Error,Medium,Escalated,2025-06-30,,Jeffery Thomas,West
+REQ-1449,Nicole Jones,Gas,Gas Leak,Critical,Open,2026-03-08,,Kimberly Jenkins,North
+REQ-1450,Keith Cordova,Water,Low Pressure,Medium,Resolved,2026-04-03,2026-04-28,Jeffery Thomas,Central
+REQ-1451,Craig Thompson,Billing,Incorrect Charge,Medium,Open,2026-02-11,,Jennifer Martinez,East
+REQ-1452,Katelyn Klein,Electric,Downed Power Line,Critical,In Progress,2025-11-23,,Bradley Jordan,South
+REQ-1453,Jacqueline Elliott,Water,No water Supply,Medium,Escalated,2026-02-14,,Hunter Morris,North
+REQ-1454,Michael Campbell,Billing,Incorrect Charge,Medium,In Progress,2026-03-13,,Sharon Michael,East
+REQ-1455,Jaime Miranda,Billing,Payment Not Reflected,Medium,In Progress,2026-03-15,,Nathaniel Luna,North
+REQ-1456,Sally Ewing,Water,Water Quality,Medium,In Progress,2026-01-14,,Kimberly Jenkins,East
+REQ-1457,Joseph Johnson,Water,No water Supply,Medium,In Progress,2025-11-30,,Christopher Nelson,East
+REQ-1458,Tonya Andrade,Gas,No Gas Supply,Medium,In Progress,2026-04-15,,Hunter Morris,South
+REQ-1459,Brandy Mclean,Billing,Account Error,Medium,In Progress,2025-09-06,,Kimberly Jenkins,West
+REQ-1460,John Walton,Billing,Account Error,Medium,Open,2025-08-08,,Bradley Jordan,West
+REQ-1461,Amber Sanchez,Water,Water Quality,Medium,Escalated,2025-10-22,,Hunter Morris,Central
+REQ-1462,Erica Edwards,Electric,Power Outage,High,Escalated,2025-08-07,,Hunter Morris,North
+REQ-1463,Brandon Owen,Billing,Payment Not Reflected,Medium,Escalated,2026-03-12,,Jeffery Thomas,East
+REQ-1464,Jennifer Ayala,Water,Water Quality,Medium,Resolved,2025-09-21,2025-10-10,Joseph Noble,Central
+REQ-1465,Nancy Davis,Billing,Refund Request,Medium,Open,2026-06-05,,Bradley Jordan,West
+REQ-1466,James Nguyen,Electric,Power Outage,High,In Progress,2025-11-15,,Jeffery Thomas,North
+REQ-1467,Pam Graham,Billing,Payment Not Reflected,Medium,In Progress,2025-07-31,,Kimberly Jenkins,South
+REQ-1468,Ricky Owens,Water,No water Supply,Medium,Resolved,2026-02-20,2026-02-23,Hunter Morris,South
+REQ-1469,Jorge Bush,Electric,Downed Power Line,Critical,Resolved,2025-07-05,2025-07-30,Nathaniel Luna,West
+REQ-1470,Hailey Sweeney,Electric,Power Outage,High,Open,2026-03-11,,Jeffery Thomas,North
+REQ-1471,Matthew Martinez,Gas,No Gas Supply,Medium,Escalated,2026-06-24,,Christopher Nelson,East
+REQ-1472,Meagan Griffin,Electric,Downed Power Line,Critical,In Progress,2025-10-27,,Bradley Jordan,South
+REQ-1473,Tammy Eaton,Billing,Incorrect Charge,Medium,Open,2026-05-07,,Hunter Morris,East
+REQ-1474,Tyler Orr,Water,Low Pressure,Medium,Escalated,2026-04-21,,Joseph Noble,North
+REQ-1475,Patricia May,Electric,volatge Fluctuation,Medium,Escalated,2025-12-31,,Nathaniel Luna,South
+REQ-1476,Amy Fischer,Billing,Account Error,Medium,In Progress,2026-05-15,,Bradley Jordan,South
+REQ-1477,William Smith,Electric,Downed Power Line,Critical,Resolved,2025-11-21,2025-12-02,Joseph Noble,South
+REQ-1478,Joann Ross,Water,No water Supply,Medium,In Progress,2025-09-18,,Sharon Michael,Central
+REQ-1479,Amber Levine,Water,No water Supply,Medium,Resolved,2026-03-15,2026-04-01,Sharon Michael,Central
+REQ-1480,John Hudson,Gas,Billing Issue,Medium,Resolved,2025-08-02,2025-08-04,Nathaniel Luna,West
+REQ-1481,Jamie Tucker,Billing,Incorrect Charge,Medium,In Progress,2025-10-16,,Sharon Michael,North
+REQ-1482,Jesus Thompson,Electric,Meter Error,Medium,Resolved,2026-04-22,2026-05-05,Sharon Michael,West
+REQ-1483,Monica Scott,Water,Low Pressure,Medium,Escalated,2026-05-22,,Christopher Nelson,Central
+REQ-1484,Dustin Santana,Electric,Power Outage,High,Resolved,2026-03-10,2026-03-12,Christopher Nelson,West
+REQ-1485,Robert Figueroa,Water,Pipe  Burst,Medium,Escalated,2025-07-04,,Daniel Hall,North
+REQ-1486,Justin Gamble,Gas,Meter Error,Medium,Open,2026-01-21,,Bradley Jordan,Central
+REQ-1487,Darren Thompson,Gas,No Gas Supply,Medium,Resolved,2025-12-10,2025-12-29,Bradley Jordan,East
+REQ-1488,Gabriel Eaton PhD,Billing,Payment Not Reflected,Medium,Open,2026-02-23,,Bradley Jordan,West
+REQ-1489,Jason Flores,Electric,Downed Power Line,Critical,Open,2026-01-21,,Joseph Noble,North
+REQ-1490,Darlene Schwartz,Electric,volatge Fluctuation,Medium,Open,2026-04-06,,Jeffery Thomas,East
+REQ-1491,Kara Robinson,Water,Low Pressure,Medium,Resolved,2026-04-25,2026-05-19,Kimberly Jenkins,North
+REQ-1492,Shannon Anderson,Electric,Meter Error,Medium,Escalated,2026-02-09,,Jennifer Martinez,North
+REQ-1493,Nathan Wilcox,Water,No water Supply,Medium,Escalated,2025-11-07,,Jennifer Martinez,East
+REQ-1494,Karen Martin,Electric,Downed Power Line,Critical,In Progress,2025-12-22,,Joseph Noble,East
+REQ-1495,Mr. Erik Robinson,Electric,Power Outage,High,In Progress,2025-10-11,,Christopher Nelson,North
+REQ-1496,Brian Olsen,Electric,volatge Fluctuation,Medium,Open,2025-10-30,,Hunter Morris,West
+REQ-1497,Kristin Campbell,Gas,No Gas Supply,Medium,Open,2025-09-18,,Daniel Hall,South
+REQ-1498,Crystal Owens,Water,Low Pressure,Medium,Escalated,2026-01-16,,Kimberly Jenkins,North
+REQ-1499,Dana Simpson,Water,No water Supply,Medium,Open,2026-03-29,,Nathaniel Luna,Central
+REQ-1500,Justin Silva,Electric,Downed Power Line,Critical,Open,2025-11-02,,Kimberly Jenkins,East
+REQ-1501,Christopher Foley,Water,No water Supply,Medium,Escalated,2026-06-24,,Hunter Morris,South
+REQ-1502,Dan Brooks,Water,Water Quality,Medium,In Progress,2025-11-03,,Hunter Morris,Central
+REQ-1503,Mark Webb,Billing,Payment Not Reflected,Medium,In Progress,2026-04-12,,Christopher Nelson,West
+REQ-1504,Terri Owen,Electric,volatge Fluctuation,Medium,Resolved,2025-08-07,2025-09-03,Christopher Nelson,East
+REQ-1505,Robert Williams,Electric,Downed Power Line,Critical,Resolved,2026-05-06,2026-05-13,Jennifer Martinez,South
+REQ-1506,Elizabeth Patrick,Billing,Account Error,Medium,Open,2026-04-17,,Kimberly Jenkins,North
+REQ-1507,Amanda Silva,Electric,volatge Fluctuation,Medium,Escalated,2025-07-05,,Hunter Morris,West
+REQ-1508,Lisa Harris,Electric,Power Outage,High,In Progress,2025-08-06,,Daniel Hall,North
+REQ-1509,Betty Cole,Electric,Downed Power Line,Critical,In Progress,2026-02-27,,Kimberly Jenkins,East
+REQ-1510,Antonio Lewis,Water,Pipe  Burst,Medium,Resolved,2026-01-17,2026-02-01,Kimberly Jenkins,South
+REQ-1511,Marcus Douglas,Electric,volatge Fluctuation,Medium,In Progress,2025-09-02,,Bradley Jordan,South
+REQ-1512,Veronica Lewis,Electric,volatge Fluctuation,Medium,Escalated,2025-11-02,,Hunter Morris,West
+REQ-1513,Christopher Fernandez,Electric,Meter Error,Medium,In Progress,2025-11-09,,Kimberly Jenkins,West
+REQ-1514,Greg Cruz,Water,No water Supply,Medium,Open,2026-04-09,,Kimberly Jenkins,Central
+REQ-1515,Benjamin Walters,Electric,volatge Fluctuation,Medium,Resolved,2026-04-14,2026-04-17,Nathaniel Luna,East
+REQ-1516,Ashley Knox,Billing,Incorrect Charge,Medium,Resolved,2026-02-15,2026-03-14,Joseph Noble,North
+REQ-1517,Karen Newman,Billing,Account Error,Medium,In Progress,2026-05-11,,Jeffery Thomas,North
+REQ-1518,Faith Mccarthy,Gas,Gas Leak,Critical,Open,2026-05-28,,Nathaniel Luna,South
+REQ-1519,Kara Kennedy,Gas,Billing Issue,Medium,Resolved,2025-07-12,2025-08-02,Bradley Jordan,Central
+REQ-1520,James Hobbs,Water,No water Supply,Medium,Open,2026-05-26,,Nathaniel Luna,West
+REQ-1521,Vanessa Richmond,Gas,Gas Leak,Critical,Resolved,2026-04-27,2026-04-29,Jeffery Thomas,North
+REQ-1522,Angela Dickson,Gas,Billing Issue,Medium,Escalated,2025-10-17,,Christopher Nelson,West
+REQ-1523,Fernando Aguilar,Billing,Payment Not Reflected,Medium,Resolved,2026-03-11,2026-04-10,Joseph Noble,East
+REQ-1524,Ronald Kane,Water,Pipe  Burst,Medium,In Progress,2026-06-11,,Sharon Michael,Central
+REQ-1525,Samuel Thompson,Gas,Meter Error,Medium,Escalated,2025-11-30,,Jennifer Martinez,West
+REQ-1526,Stephanie Garza,Electric,Power Outage,High,Resolved,2025-12-14,2025-12-19,Daniel Hall,South
+REQ-1527,Joshua Murphy,Gas,Gas Leak,Critical,Escalated,2025-12-27,,Jeffery Thomas,Central
+REQ-1528,Kristin Barker,Billing,Refund Request,Medium,Resolved,2025-12-12,2025-12-21,Joseph Noble,North
+REQ-1529,Donna Carroll,Water,Low Pressure,Medium,Open,2026-02-05,,Christopher Nelson,West
+REQ-1530,Vincent Johnston,Water,Low Pressure,Medium,In Progress,2026-05-08,,Nathaniel Luna,South
+REQ-1531,Michelle Brady,Water,No water Supply,Medium,In Progress,2025-09-07,,Daniel Hall,East
+REQ-1532,Charles Lewis,Gas,No Gas Supply,Medium,In Progress,2025-08-29,,Hunter Morris,East
+REQ-1533,James Martin,Electric,Meter Error,Medium,In Progress,2025-09-13,,Nathaniel Luna,West
+REQ-1534,Crystal Nelson,Water,Low Pressure,Medium,Escalated,2026-06-09,,Bradley Jordan,North
+REQ-1535,Leslie Spencer,Gas,No Gas Supply,Medium,Open,2025-10-02,,Jeffery Thomas,North
+REQ-1536,Savannah Bryant,Water,Low Pressure,Medium,In Progress,2026-01-05,,Joseph Noble,East
+REQ-1537,Troy Stevens,Electric,Power Outage,High,In Progress,2025-09-01,,Joseph Noble,North
+REQ-1538,Destiny Ray,Water,No water Supply,Medium,Resolved,2025-07-03,2025-07-25,Daniel Hall,Central
+REQ-1539,Tammy Giles,Electric,Meter Error,Medium,Resolved,2026-01-14,2026-01-19,Joseph Noble,West
+REQ-1540,Erin Cox,Billing,Refund Request,Medium,In Progress,2025-07-01,,Jennifer Martinez,Central
+REQ-1541,Michael Oconnell,Water,Low Pressure,Medium,In Progress,2025-12-17,,Kimberly Jenkins,East
+REQ-1542,Henry Adams,Gas,No Gas Supply,Medium,Open,2025-07-04,,Sharon Michael,West
+REQ-1543,Jason Perry,Electric,volatge Fluctuation,Medium,Resolved,2025-08-19,2025-08-27,Sharon Michael,North
+REQ-1544,Sara Cochran,Billing,Payment Not Reflected,Medium,Resolved,2026-05-20,2026-05-28,Hunter Morris,East
+REQ-1545,David Moore,Gas,Gas Leak,Critical,Resolved,2025-11-12,2025-11-13,Kimberly Jenkins,South
+REQ-1546,Heather Thompson,Gas,Gas Leak,Critical,Resolved,2026-02-17,2026-03-15,Bradley Jordan,North
+REQ-1547,Laura Andrews,Electric,Downed Power Line,Critical,Escalated,2025-11-26,,Joseph Noble,West
+REQ-1548,Amber Rice,Billing,Account Error,Medium,Resolved,2025-09-22,2025-10-05,Bradley Jordan,West
+REQ-1549,Dr. Amy Hall,Gas,No Gas Supply,Medium,Escalated,2026-05-22,,Christopher Nelson,East
+REQ-1550,Jason Anderson,Electric,Meter Error,Medium,Resolved,2026-05-06,2026-05-09,Hunter Morris,South
+REQ-1551,Jennifer Douglas,Billing,Payment Not Reflected,Medium,Open,2025-09-21,,Bradley Jordan,East
+REQ-1552,Deborah Andrade,Billing,Incorrect Charge,Medium,Escalated,2025-07-29,,Joseph Noble,Central
+REQ-1553,Joseph Brown,Billing,Payment Not Reflected,Medium,Open,2026-05-08,,Hunter Morris,South
+REQ-1554,Brittany Roth,Gas,Billing Issue,Medium,Resolved,2025-07-25,2025-08-04,Kimberly Jenkins,South
+REQ-1555,Jennifer Smith,Electric,Power Outage,High,Escalated,2025-09-09,,Jennifer Martinez,West
+REQ-1556,Nicholas Clark,Gas,Gas Leak,Critical,Resolved,2026-06-27,2026-07-11,Bradley Jordan,East
+REQ-1557,John Williams,Billing,Payment Not Reflected,Medium,Open,2026-06-15,,Nathaniel Luna,South
+REQ-1558,Mark Lee,Water,No water Supply,Medium,Escalated,2026-04-30,,Kimberly Jenkins,West
+REQ-1559,Robert Dudley,Billing,Account Error,Medium,Resolved,2026-05-13,2026-06-03,Jennifer Martinez,West
+REQ-1560,Michael Allen,Gas,Meter Error,Medium,Escalated,2025-12-21,,Joseph Noble,West
+REQ-1561,Penny Williams,Electric,Meter Error,Medium,Escalated,2025-11-02,,Kimberly Jenkins,South
+REQ-1562,Eric Fisher,Water,No water Supply,Medium,In Progress,2025-07-07,,Bradley Jordan,North
+REQ-1563,Christine Carlson,Water,Pipe  Burst,Medium,In Progress,2025-09-18,,Christopher Nelson,West
+REQ-1564,Steven Harrell,Billing,Account Error,Medium,In Progress,2025-10-28,,Kimberly Jenkins,North
+REQ-1565,Mr. Andrew Norris,Billing,Incorrect Charge,Medium,In Progress,2026-04-28,,Jeffery Thomas,South
+REQ-1566,Nicole Lawrence,Gas,No Gas Supply,Medium,In Progress,2026-04-25,,Christopher Nelson,West
+REQ-1567,Linda Hall,Electric,Downed Power Line,Critical,In Progress,2025-08-11,,Joseph Noble,Central
+REQ-1568,David West,Water,Water Quality,Medium,Open,2026-05-15,,Daniel Hall,Central
+REQ-1569,Jose Mitchell,Billing,Refund Request,Medium,Resolved,2025-10-05,2025-10-20,Christopher Nelson,Central
+REQ-1570,Daniel Ryan,Billing,Incorrect Charge,Medium,Escalated,2026-04-13,,Joseph Noble,Central
+REQ-1571,Bryan Hughes,Electric,Power Outage,High,Open,2026-02-02,,Jennifer Martinez,East
+REQ-1572,Abigail Johnson,Billing,Refund Request,Medium,Escalated,2025-07-28,,Jeffery Thomas,Central
+REQ-1573,Justin Jackson,Billing,Incorrect Charge,Medium,In Progress,2026-02-07,,Daniel Hall,South
+REQ-1574,Isabel Sanders,Billing,Incorrect Charge,Medium,Escalated,2026-01-10,,Nathaniel Luna,North
+REQ-1575,Michele Clark,Billing,Refund Request,Medium,Resolved,2026-06-18,2026-06-29,Kimberly Jenkins,East
+REQ-1576,Virginia Stephens,Water,Pipe  Burst,Medium,Open,2026-03-04,,Joseph Noble,East
+REQ-1577,Danny Galvan,Billing,Refund Request,Medium,Resolved,2025-11-27,2025-12-17,Bradley Jordan,South
+REQ-1578,Jessica Wolfe,Billing,Payment Not Reflected,Medium,Escalated,2025-10-23,,Jennifer Martinez,East
+REQ-1579,John Watts,Electric,volatge Fluctuation,Medium,Open,2026-01-20,,Jennifer Martinez,West
+REQ-1580,Sara Cervantes,Gas,Gas Leak,Critical,In Progress,2026-03-22,,Nathaniel Luna,North
+REQ-1581,Lisa Scott,Gas,Gas Leak,Critical,Escalated,2026-06-03,,Hunter Morris,South
+REQ-1582,Levi Jefferson,Water,Water Quality,Medium,Escalated,2025-10-13,,Daniel Hall,North
+REQ-1583,David Williams,Electric,volatge Fluctuation,Medium,Resolved,2025-10-21,2025-11-10,Jeffery Thomas,South
+REQ-1584,Evan Pearson,Billing,Refund Request,Medium,Resolved,2026-04-06,2026-05-03,Kimberly Jenkins,North
+REQ-1585,Ashley Davis,Water,No water Supply,Medium,Escalated,2026-06-03,,Joseph Noble,Central
+REQ-1586,Henry Stewart,Gas,No Gas Supply,Medium,In Progress,2025-07-17,,Nathaniel Luna,East
+REQ-1587,Kyle Huynh,Billing,Incorrect Charge,Medium,Open,2025-10-29,,Joseph Noble,South
+REQ-1588,Jeremy Boyle,Electric,volatge Fluctuation,Medium,Resolved,2025-08-21,2025-09-16,Kimberly Jenkins,East
+REQ-1589,Kimberly Williams,Billing,Account Error,Medium,Resolved,2025-11-05,2025-11-14,Nathaniel Luna,West
+REQ-1590,Curtis Ford,Water,Pipe  Burst,Medium,Open,2026-06-25,,Jennifer Martinez,East
+REQ-1591,Amanda Smith,Water,Water Quality,Medium,Open,2025-10-25,,Bradley Jordan,East
+REQ-1592,Charles Lawrence,Water,Water Quality,Medium,Resolved,2026-02-15,2026-03-08,Kimberly Jenkins,South
+REQ-1593,Amanda Holmes,Gas,No Gas Supply,Medium,Open,2025-08-25,,Daniel Hall,East
+REQ-1594,Alicia Fuller DDS,Gas,Gas Leak,Critical,Escalated,2026-01-28,,Kimberly Jenkins,West
+REQ-1595,Andrew Goodman,Billing,Account Error,Medium,Open,2025-09-03,,Sharon Michael,South
+REQ-1596,Michael Moss,Water,Low Pressure,Medium,Escalated,2025-07-20,,Hunter Morris,Central
+REQ-1597,Alison Barajas,Water,Low Pressure,Medium,In Progress,2026-01-29,,Bradley Jordan,West
+REQ-1598,Kimberly Hale,Gas,Meter Error,Medium,In Progress,2025-07-15,,Hunter Morris,North
+REQ-1599,Thomas Mcbride,Gas,Meter Error,Medium,In Progress,2026-01-22,,Daniel Hall,East
+REQ-1600,Amanda Wilson,Water,Water Quality,Medium,Resolved,2025-11-03,2025-12-01,Bradley Jordan,West
+REQ-1601,Amy Campbell,Electric,Power Outage,High,Escalated,2026-03-21,,Jennifer Martinez,North
+REQ-1602,Angela Taylor,Billing,Refund Request,Medium,Escalated,2026-06-01,,Joseph Noble,South
+REQ-1603,Jason Long,Gas,Meter Error,Medium,Escalated,2025-09-10,,Jeffery Thomas,South
+REQ-1604,Alexandra Fisher,Water,Low Pressure,Medium,Open,2025-10-22,,Hunter Morris,South
+REQ-1605,Shannon Hicks MD,Water,No water Supply,Medium,Open,2025-11-09,,Kimberly Jenkins,South
+REQ-1606,Shannon Williams,Gas,No Gas Supply,Medium,Escalated,2026-05-14,,Joseph Noble,Central
+REQ-1607,Bobby Chen,Billing,Account Error,Medium,Escalated,2025-11-21,,Jeffery Thomas,West
+REQ-1608,Emily Reese,Electric,Power Outage,High,In Progress,2025-12-19,,Christopher Nelson,East
+REQ-1609,Joshua Rogers,Gas,Gas Leak,Critical,Open,2025-08-12,,Nathaniel Luna,South
+REQ-1610,Brianna Adams,Water,Water Quality,Medium,In Progress,2026-05-07,,Daniel Hall,Central
+REQ-1611,Jamie Davis,Water,Low Pressure,Medium,Open,2026-06-05,,Kimberly Jenkins,East
+REQ-1612,Michelle Galloway,Billing,Refund Request,Medium,Escalated,2025-07-12,,Joseph Noble,East
+REQ-1613,Marc Cobb,Billing,Refund Request,Medium,In Progress,2026-04-05,,Daniel Hall,North
+REQ-1614,Christina Wade,Gas,No Gas Supply,Medium,In Progress,2026-03-12,,Christopher Nelson,Central
+REQ-1615,Edward Thompson,Gas,Gas Leak,Critical,Resolved,2025-06-29,2025-07-20,Christopher Nelson,West
+REQ-1616,Frank Frey,Water,No water Supply,Medium,Open,2025-07-25,,Bradley Jordan,North
+REQ-1617,Robert Ellis,Electric,Power Outage,High,Escalated,2025-11-13,,Daniel Hall,North
+REQ-1618,Christine Atkins,Water,Pipe  Burst,Medium,In Progress,2026-03-15,,Christopher Nelson,East
+REQ-1619,Paul Turner,Billing,Incorrect Charge,Medium,Resolved,2025-08-14,2025-09-03,Joseph Noble,West
+REQ-1620,Alyssa Avila,Electric,Power Outage,High,Resolved,2026-05-01,2026-05-27,Bradley Jordan,West
+REQ-1621,Eddie Smith,Gas,No Gas Supply,Medium,Resolved,2025-10-04,2025-10-11,Hunter Morris,West
+REQ-1622,Michaela Carpenter,Water,Low Pressure,Medium,Open,2025-09-21,,Jeffery Thomas,South
+REQ-1623,Katherine Abbott,Billing,Refund Request,Medium,In Progress,2026-06-27,,Christopher Nelson,North
+REQ-1624,Lori Allen,Electric,Downed Power Line,Critical,In Progress,2026-05-13,,Jennifer Martinez,North
+REQ-1625,Jesse Petty,Electric,Meter Error,Medium,In Progress,2025-11-07,,Kimberly Jenkins,East
+REQ-1626,Jason Goodman,Billing,Incorrect Charge,Medium,Open,2026-03-31,,Christopher Nelson,East
+REQ-1627,Tammy Tran,Water,Water Quality,Medium,Escalated,2026-04-30,,Bradley Jordan,North
+REQ-1628,Ryan Martin,Electric,volatge Fluctuation,Medium,In Progress,2026-01-11,,Hunter Morris,West
+REQ-1629,Jillian Davis,Water,No water Supply,Medium,Resolved,2026-01-04,2026-01-10,Bradley Jordan,West
+REQ-1630,Jacob Adams,Billing,Account Error,Medium,Resolved,2025-12-13,2026-01-05,Jeffery Thomas,West
+REQ-1631,Lauren Cole,Gas,Gas Leak,Critical,In Progress,2025-07-07,,Christopher Nelson,South
+REQ-1632,Alexandra Miller,Electric,Downed Power Line,Critical,Escalated,2025-09-10,,Jeffery Thomas,South
+REQ-1633,Jacob Jackson,Billing,Refund Request,Medium,Open,2025-07-13,,Joseph Noble,West
+REQ-1634,Daniel Everett,Billing,Incorrect Charge,Medium,Escalated,2025-11-15,,Christopher Nelson,North
+REQ-1635,Charles Holmes,Water,Water Quality,Medium,Open,2025-07-03,,Jennifer Martinez,Central
+REQ-1636,Nathan Hunt,Gas,Meter Error,Medium,Open,2025-11-19,,Nathaniel Luna,West
+REQ-1637,Amanda Garcia,Water,Pipe  Burst,Medium,In Progress,2025-09-16,,Sharon Michael,North
+REQ-1638,Robert Woods,Electric,volatge Fluctuation,Medium,Escalated,2025-10-18,,Joseph Noble,North
+REQ-1639,Tracy Macias,Billing,Refund Request,Medium,In Progress,2026-01-10,,Kimberly Jenkins,North
+REQ-1640,Julie Carpenter,Gas,Billing Issue,Medium,Escalated,2026-02-28,,Bradley Jordan,West
+REQ-1641,James Flynn,Billing,Account Error,Medium,Open,2025-10-16,,Jeffery Thomas,East
+REQ-1642,Jason Rogers,Electric,Downed Power Line,Critical,Open,2026-05-07,,Daniel Hall,West
+REQ-1643,Ruben Raymond,Electric,Power Outage,High,Open,2025-08-23,,Sharon Michael,East
+REQ-1644,Ann Richmond,Gas,Billing Issue,Medium,Resolved,2025-12-24,2026-01-20,Christopher Nelson,South
+REQ-1645,Emily Robinson,Billing,Refund Request,Medium,Escalated,2025-07-27,,Hunter Morris,West
+REQ-1646,Kathryn Garcia,Electric,Power Outage,High,In Progress,2026-06-27,,Hunter Morris,East
+REQ-1647,Andrew Jones,Water,Water Quality,Medium,Open,2026-06-05,,Joseph Noble,West
+REQ-1648,Anthony Lopez,Gas,Billing Issue,Medium,Open,2026-02-18,,Sharon Michael,South
+REQ-1649,Darius Clark,Gas,Gas Leak,Critical,Escalated,2026-03-10,,Jeffery Thomas,South
+REQ-1650,Cynthia Sullivan,Water,No water Supply,Medium,Escalated,2026-06-05,,Sharon Michael,North
+REQ-1651,Parker Mason,Billing,Account Error,Medium,In Progress,2025-10-16,,Christopher Nelson,Central
+REQ-1652,Lauren Thomas,Electric,Downed Power Line,Critical,Escalated,2025-10-11,,Joseph Noble,Central
+REQ-1653,Amber Wheeler,Gas,No Gas Supply,Medium,Open,2025-12-12,,Sharon Michael,Central
+REQ-1654,Andrew Rivera,Water,Pipe  Burst,Medium,Escalated,2025-08-21,,Nathaniel Luna,East
+REQ-1655,Mr. Marvin Harmon PhD,Billing,Refund Request,Medium,Resolved,2025-11-09,2025-12-05,Joseph Noble,South
+REQ-1656,Marisa Lawson,Billing,Refund Request,Medium,Resolved,2025-06-29,2025-07-23,Jennifer Martinez,South
+REQ-1657,Arthur Lopez,Gas,No Gas Supply,Medium,Resolved,2025-07-12,2025-07-24,Joseph Noble,South
+REQ-1658,Julie Reyes,Water,No water Supply,Medium,Resolved,2025-09-14,2025-09-30,Sharon Michael,Central
+REQ-1659,Jeffrey Fisher,Billing,Refund Request,Medium,Escalated,2026-06-22,,Jennifer Martinez,North
+REQ-1660,Jacob Cruz,Electric,Downed Power Line,Critical,In Progress,2026-06-01,,Christopher Nelson,South
+REQ-1661,Erin Conley,Water,Low Pressure,Medium,Resolved,2025-07-14,2025-07-23,Joseph Noble,North
+REQ-1662,Kenneth Stephens,Water,Low Pressure,Medium,Open,2025-12-27,,Jeffery Thomas,North
+REQ-1663,Brenda Gibson,Gas,Billing Issue,Medium,In Progress,2025-10-10,,Kimberly Jenkins,North
+REQ-1664,Elizabeth Carroll,Billing,Account Error,Medium,Escalated,2025-07-13,,Hunter Morris,Central
+REQ-1665,Amy Bates,Electric,Power Outage,High,Resolved,2026-03-17,2026-04-06,Jeffery Thomas,South
+REQ-1666,Melissa Combs,Water,Low Pressure,Medium,In Progress,2026-01-29,,Jeffery Thomas,South
+REQ-1667,Michael Durham,Electric,volatge Fluctuation,Medium,In Progress,2025-10-08,,Bradley Jordan,West
+REQ-1668,Danielle Stewart,Electric,Downed Power Line,Critical,Resolved,2025-09-17,2025-09-26,Joseph Noble,South
+REQ-1669,Tracy Parker,Water,No water Supply,Medium,Resolved,2025-11-02,2025-11-25,Joseph Noble,North
+REQ-1670,Rhonda Diaz,Gas,Meter Error,Medium,Open,2025-08-12,,Sharon Michael,East
+REQ-1671,Deanna Weeks,Billing,Refund Request,Medium,Open,2025-07-01,,Hunter Morris,Central
+REQ-1672,Alexandria Ryan,Gas,No Gas Supply,Medium,Open,2025-10-13,,Joseph Noble,West
+REQ-1673,Gabriel Hernandez,Billing,Incorrect Charge,Medium,Resolved,2026-03-07,2026-04-05,Nathaniel Luna,East
+REQ-1674,Whitney Jackson,Water,Water Quality,Medium,Resolved,2026-03-09,2026-04-03,Sharon Michael,Central
+REQ-1675,Steve Griffith,Billing,Incorrect Charge,Medium,Open,2025-07-21,,Hunter Morris,West
+REQ-1676,Logan Nguyen,Gas,No Gas Supply,Medium,Open,2025-07-14,,Hunter Morris,West
+REQ-1677,Spencer Fuller,Electric,Downed Power Line,Critical,Resolved,2025-09-25,2025-10-19,Kimberly Jenkins,North
+REQ-1678,Robert Jones,Water,Pipe  Burst,Medium,Escalated,2026-06-06,,Kimberly Jenkins,South
+REQ-1679,Maria Sandoval,Water,No water Supply,Medium,Open,2026-04-04,,Jennifer Martinez,Central
+REQ-1680,Lori Gibson,Electric,Power Outage,High,In Progress,2025-07-20,,Nathaniel Luna,West
+REQ-1681,Max Decker,Electric,volatge Fluctuation,Medium,Escalated,2025-08-01,,Bradley Jordan,South
+REQ-1682,Mary Copeland,Electric,Downed Power Line,Critical,Resolved,2026-06-09,2026-06-12,Bradley Jordan,North
+REQ-1683,William Watson,Gas,Meter Error,Medium,Open,2025-09-07,,Nathaniel Luna,East
+REQ-1684,Scott Perkins,Billing,Account Error,Medium,Escalated,2025-08-10,,Daniel Hall,West
+REQ-1685,Isaiah Gonzalez,Water,No water Supply,Medium,Escalated,2025-07-19,,Bradley Jordan,Central
+REQ-1686,Allison Schmidt,Electric,Power Outage,High,Open,2025-07-05,,Bradley Jordan,East
+REQ-1687,Lindsay Johnson,Electric,Meter Error,Medium,Resolved,2025-08-22,2025-08-25,Kimberly Jenkins,West
+REQ-1688,Jacob Williams,Billing,Account Error,Medium,Open,2025-10-29,,Joseph Noble,Central
+REQ-1689,Matthew Adkins,Gas,No Gas Supply,Medium,Escalated,2025-09-22,,Kimberly Jenkins,South
+REQ-1690,Jessica Miller,Water,Water Quality,Medium,Open,2025-09-18,,Jennifer Martinez,South
+REQ-1691,Christopher Foster,Electric,Power Outage,High,Open,2025-09-08,,Sharon Michael,West
+REQ-1692,Julia Miller,Electric,Meter Error,Medium,In Progress,2026-01-03,,Nathaniel Luna,West
+REQ-1693,Michael Collins,Gas,No Gas Supply,Medium,In Progress,2026-03-07,,Sharon Michael,East
+REQ-1694,Jessica Davis,Gas,Gas Leak,Critical,In Progress,2025-07-20,,Sharon Michael,North
+REQ-1695,Joshua Padilla,Billing,Incorrect Charge,Medium,Resolved,2025-07-20,2025-07-23,Kimberly Jenkins,North
+REQ-1696,Darren Barnett,Gas,Billing Issue,Medium,Resolved,2025-12-28,2026-01-02,Nathaniel Luna,North
+REQ-1697,Tony Powell,Water,No water Supply,Medium,In Progress,2026-01-17,,Jeffery Thomas,West
+REQ-1698,Michele Davis,Water,Water Quality,Medium,In Progress,2025-09-12,,Sharon Michael,East
+REQ-1699,Terry Braun,Water,Pipe  Burst,Medium,In Progress,2026-06-26,,Hunter Morris,South
+REQ-1700,Christopher Navarro,Gas,Billing Issue,Medium,Resolved,2025-12-26,2025-12-31,Hunter Morris,West
+REQ-1701,Joan Holt,Billing,Account Error,Medium,Resolved,2026-01-23,2026-02-08,Jennifer Martinez,North
+REQ-1702,Lindsay Williams,Gas,Gas Leak,Critical,Resolved,2026-04-18,2026-05-17,Jennifer Martinez,South
+REQ-1703,Lauren Patton,Water,No water Supply,Medium,Open,2026-06-19,,Jennifer Martinez,North
+REQ-1704,Andrea Copeland,Billing,Payment Not Reflected,Medium,Open,2025-09-19,,Kimberly Jenkins,Central
+REQ-1705,Andrew Parker,Billing,Payment Not Reflected,Medium,Resolved,2025-12-10,2025-12-18,Sharon Michael,East
+REQ-1706,Angela Smith,Gas,Billing Issue,Medium,Open,2025-12-07,,Hunter Morris,Central
+REQ-1707,Austin Moreno,Electric,volatge Fluctuation,Medium,In Progress,2025-10-08,,Joseph Noble,West
+REQ-1708,Allison Ortega,Gas,No Gas Supply,Medium,In Progress,2025-10-24,,Hunter Morris,North
+REQ-1709,Timothy Nolan,Gas,Billing Issue,Medium,In Progress,2026-05-27,,Kimberly Jenkins,East
+REQ-1710,Douglas Moore,Gas,Gas Leak,Critical,In Progress,2025-10-06,,Hunter Morris,West
+REQ-1711,Sarah Olson,Billing,Account Error,Medium,Open,2026-06-08,,Hunter Morris,North
+REQ-1712,Daniel Martinez,Water,Water Quality,Medium,In Progress,2025-12-18,,Daniel Hall,East
+REQ-1713,Megan Schneider,Electric,Meter Error,Medium,Escalated,2026-03-06,,Jennifer Martinez,West
+REQ-1714,Bruce Gomez,Water,Water Quality,Medium,Escalated,2025-10-25,,Sharon Michael,North
+REQ-1715,Christopher Thompson,Gas,Billing Issue,Medium,In Progress,2026-03-03,,Bradley Jordan,Central
+REQ-1716,Wendy Hamilton MD,Water,Low Pressure,Medium,In Progress,2026-03-25,,Joseph Noble,East
+REQ-1717,Jonathan White,Electric,volatge Fluctuation,Medium,Escalated,2026-01-10,,Bradley Jordan,West
+REQ-1718,Brittany Ortiz,Billing,Account Error,Medium,In Progress,2025-08-30,,Joseph Noble,West
+REQ-1719,Crystal Vazquez,Electric,volatge Fluctuation,Medium,Open,2026-04-24,,Sharon Michael,Central
+REQ-1720,Amy Collins,Gas,No Gas Supply,Medium,Open,2025-09-08,,Joseph Noble,North
+REQ-1721,Kyle Wilcox,Gas,Meter Error,Medium,In Progress,2025-10-07,,Daniel Hall,Central
+REQ-1722,Charles Carter,Electric,Meter Error,Medium,Open,2026-03-10,,Jeffery Thomas,Central
+REQ-1723,Wesley Reynolds,Billing,Account Error,Medium,In Progress,2026-03-08,,Daniel Hall,Central
+REQ-1724,John Gardner,Gas,No Gas Supply,Medium,Resolved,2026-04-04,2026-04-28,Hunter Morris,West
+REQ-1725,Melissa Vazquez,Electric,volatge Fluctuation,Medium,Escalated,2025-12-13,,Joseph Noble,North
+REQ-1726,Daniel Andrade,Electric,volatge Fluctuation,Medium,Escalated,2026-04-13,,Sharon Michael,North
+REQ-1727,Veronica Joyce,Gas,Billing Issue,Medium,Open,2025-09-29,,Jennifer Martinez,North
+REQ-1728,Michael Williams,Electric,Downed Power Line,Critical,In Progress,2025-08-24,,Jennifer Martinez,North
+REQ-1729,Louis Hamilton,Billing,Account Error,Medium,Resolved,2026-06-06,2026-06-29,Jennifer Martinez,West
+REQ-1730,David Villanueva,Gas,Billing Issue,Medium,Escalated,2025-12-31,,Sharon Michael,Central
+REQ-1731,Amy Miller,Electric,Downed Power Line,Critical,In Progress,2026-02-18,,Jeffery Thomas,South
+REQ-1732,Jennifer Mcpherson,Electric,Meter Error,Medium,Escalated,2026-02-17,,Nathaniel Luna,North
+REQ-1733,Christine Sanchez,Electric,Power Outage,High,Open,2025-12-18,,Nathaniel Luna,East
+REQ-1734,Heather Sloan,Billing,Refund Request,Medium,Open,2026-04-10,,Daniel Hall,Central
+REQ-1735,Ariana Rivera,Water,Water Quality,Medium,Escalated,2025-09-12,,Hunter Morris,Central
+REQ-1736,Jessica Hernandez,Water,Pipe  Burst,Medium,In Progress,2025-11-29,,Jennifer Martinez,Central
+REQ-1737,Kevin Obrien,Billing,Payment Not Reflected,Medium,Resolved,2025-09-15,2025-10-03,Jeffery Thomas,East
+REQ-1738,Bruce Smith,Water,Water Quality,Medium,Escalated,2026-04-19,,Bradley Jordan,South
+REQ-1739,Cynthia Hawkins DVM,Billing,Payment Not Reflected,Medium,Open,2026-03-11,,Jennifer Martinez,West
+REQ-1740,Kyle Quinn,Water,No water Supply,Medium,In Progress,2025-12-11,,Christopher Nelson,North
+REQ-1741,Amy Morris,Gas,Billing Issue,Medium,Escalated,2026-05-14,,Bradley Jordan,East
+REQ-1742,Kenneth Madden,Gas,Meter Error,Medium,Open,2025-08-21,,Christopher Nelson,West
+REQ-1743,Brent Barron,Billing,Refund Request,Medium,Open,2026-03-31,,Jeffery Thomas,West
+REQ-1744,Jeremy Hall,Electric,volatge Fluctuation,Medium,Resolved,2026-03-21,2026-03-23,Sharon Michael,Central
+REQ-1745,Bryan Vega,Gas,No Gas Supply,Medium,Open,2025-12-26,,Nathaniel Luna,North
+REQ-1746,Michaela Mckenzie,Gas,Gas Leak,Critical,Resolved,2025-12-06,2025-12-18,Daniel Hall,West
+REQ-1747,Sheena Bradley,Gas,Gas Leak,Critical,Open,2026-05-13,,Jennifer Martinez,East
+REQ-1748,Barbara Hawkins,Water,Water Quality,Medium,Resolved,2026-03-05,2026-03-25,Nathaniel Luna,West
+REQ-1749,John Lucas MD,Billing,Incorrect Charge,Medium,Resolved,2026-03-31,2026-04-14,Jennifer Martinez,North
+REQ-1750,Donald Cruz,Electric,Meter Error,Medium,Resolved,2026-04-30,2026-05-26,Jennifer Martinez,East
+REQ-1751,Rebecca Lowe,Water,Pipe  Burst,Medium,Escalated,2025-09-13,,Jeffery Thomas,South
+REQ-1752,Mrs. Cassandra Abbott,Water,Pipe  Burst,Medium,Escalated,2025-09-01,,Christopher Nelson,West
+REQ-1753,Tina Callahan,Electric,Meter Error,Medium,Open,2025-12-15,,Nathaniel Luna,South
+REQ-1754,Alexandra Meyers,Water,Pipe  Burst,Medium,Resolved,2025-10-07,2025-10-25,Christopher Nelson,East
+REQ-1755,Eugene Matthews,Gas,Meter Error,Medium,Open,2025-12-06,,Hunter Morris,North
+REQ-1756,Rachel Garcia,Gas,Billing Issue,Medium,Resolved,2025-12-29,2026-01-05,Sharon Michael,East
+REQ-1757,Derrick Rocha,Gas,No Gas Supply,Medium,Escalated,2026-03-18,,Nathaniel Luna,South
+REQ-1758,Sarah Diaz,Water,Low Pressure,Medium,In Progress,2026-03-17,,Nathaniel Luna,Central
+REQ-1759,David Fernandez,Water,Low Pressure,Medium,Open,2026-04-28,,Bradley Jordan,West
+REQ-1760,Michelle Sellers,Electric,Power Outage,High,Escalated,2025-12-20,,Sharon Michael,East
+REQ-1761,Timothy Jackson,Billing,Refund Request,Medium,Escalated,2026-03-27,,Jennifer Martinez,East
+REQ-1762,Adrian Graham,Billing,Payment Not Reflected,Medium,In Progress,2026-06-01,,Jennifer Martinez,West
+REQ-1763,Kathleen Perez,Billing,Incorrect Charge,Medium,Resolved,2025-12-09,2026-01-06,Joseph Noble,West
+REQ-1764,Holly Jackson,Electric,Downed Power Line,Critical,Resolved,2025-07-11,2025-07-12,Christopher Nelson,South
+REQ-1765,Michael Howard,Billing,Incorrect Charge,Medium,Resolved,2025-12-25,2026-01-14,Kimberly Jenkins,South
+REQ-1766,Carrie Bennett,Water,Low Pressure,Medium,Resolved,2025-10-30,2025-11-19,Hunter Morris,East
+REQ-1767,Denise Whitaker,Gas,Billing Issue,Medium,Escalated,2026-03-13,,Daniel Hall,East
+REQ-1768,John Jacobs,Water,Pipe  Burst,Medium,Resolved,2025-11-10,2025-11-16,Sharon Michael,South
+REQ-1769,Justin Lawrence,Gas,Gas Leak,Critical,Resolved,2026-02-28,2026-03-18,Daniel Hall,West
+REQ-1770,Kelly Fisher,Gas,No Gas Supply,Medium,In Progress,2025-10-29,,Christopher Nelson,South
+REQ-1771,Amy Wu,Billing,Account Error,Medium,In Progress,2025-08-10,,Jennifer Martinez,Central
+REQ-1772,Jasmin Allen,Water,Pipe  Burst,Medium,Resolved,2026-02-20,2026-03-10,Sharon Michael,North
+REQ-1773,Isaac French,Billing,Incorrect Charge,Medium,In Progress,2026-05-29,,Nathaniel Luna,East
+REQ-1774,Barbara Williams,Billing,Incorrect Charge,Medium,Escalated,2026-01-08,,Kimberly Jenkins,East
+REQ-1775,Stephanie Pacheco,Water,Water Quality,Medium,Resolved,2026-06-18,2026-07-02,Bradley Jordan,East
+REQ-1776,Dana Garcia,Gas,No Gas Supply,Medium,Resolved,2025-12-29,2026-01-09,Jennifer Martinez,West
+REQ-1777,Christine Holt,Billing,Incorrect Charge,Medium,Escalated,2025-08-18,,Kimberly Jenkins,West
+REQ-1778,Melinda White,Gas,No Gas Supply,Medium,Resolved,2025-11-25,2025-12-16,Sharon Michael,Central
+REQ-1779,Holly Porter,Billing,Incorrect Charge,Medium,Open,2026-04-07,,Hunter Morris,South
+REQ-1780,Cynthia Carter,Water,Water Quality,Medium,Resolved,2025-06-30,2025-07-09,Sharon Michael,West
+REQ-1781,Robin Stokes,Water,Pipe  Burst,Medium,Resolved,2025-09-01,2025-09-18,Jeffery Thomas,West
+REQ-1782,Jessica Delgado,Gas,No Gas Supply,Medium,Open,2026-04-25,,Nathaniel Luna,East
+REQ-1783,Rebecca Beck,Electric,volatge Fluctuation,Medium,In Progress,2025-12-07,,Bradley Jordan,North
+REQ-1784,Allison Brown,Electric,Downed Power Line,Critical,Open,2026-06-15,,Daniel Hall,Central
+REQ-1785,Gloria Grant,Electric,Power Outage,High,Resolved,2025-08-16,2025-08-21,Bradley Jordan,West
+REQ-1786,Michelle Garcia,Water,Low Pressure,Medium,In Progress,2026-02-03,,Jeffery Thomas,South
+REQ-1787,Tara Gallegos,Gas,No Gas Supply,Medium,Open,2026-06-11,,Hunter Morris,East
+REQ-1788,Michelle Smith,Billing,Account Error,Medium,Resolved,2025-09-21,2025-10-06,Joseph Noble,Central
+REQ-1789,Laurie Cooper,Gas,Billing Issue,Medium,Escalated,2025-10-03,,Jennifer Martinez,East
+REQ-1790,Felicia Bridges,Water,Pipe  Burst,Medium,In Progress,2026-05-14,,Jeffery Thomas,East
+REQ-1791,Carl Perez,Water,Pipe  Burst,Medium,Resolved,2026-04-10,2026-04-20,Christopher Nelson,North
+REQ-1792,April Ruiz,Gas,Meter Error,Medium,Resolved,2025-10-31,2025-11-18,Christopher Nelson,West
+REQ-1793,James Hodge,Billing,Refund Request,Medium,Open,2025-11-20,,Kimberly Jenkins,Central
+REQ-1794,Joshua Perkins,Gas,Gas Leak,Critical,Resolved,2026-03-24,2026-04-07,Jennifer Martinez,West
+REQ-1795,Shawna Alvarez,Billing,Payment Not Reflected,Medium,In Progress,2025-08-02,,Daniel Hall,West
+REQ-1796,Marcus Williams,Gas,Meter Error,Medium,Open,2025-11-24,,Nathaniel Luna,Central
+REQ-1797,Robert Guzman,Water,Water Quality,Medium,Resolved,2025-11-29,2025-12-06,Bradley Jordan,South
+REQ-1798,John Chambers,Gas,Meter Error,Medium,Open,2025-08-06,,Jeffery Thomas,Central
+REQ-1799,Daniel Martin,Billing,Refund Request,Medium,Escalated,2026-03-24,,Hunter Morris,North
+REQ-1800,Diane Williams,Gas,Gas Leak,Critical,Open,2026-03-25,,Bradley Jordan,East
+REQ-1801,Bianca Williams,Water,Low Pressure,Medium,Escalated,2026-06-24,,Nathaniel Luna,North
+REQ-1802,Shannon Pierce,Gas,Gas Leak,Critical,Escalated,2026-03-09,,Hunter Morris,West
+REQ-1803,Reginald Smith,Water,Pipe  Burst,Medium,Resolved,2025-11-03,2025-11-26,Christopher Nelson,East
+REQ-1804,Laura Richardson,Electric,volatge Fluctuation,Medium,Open,2026-02-12,,Daniel Hall,North
+REQ-1805,Morgan Livingston,Billing,Payment Not Reflected,Medium,In Progress,2026-02-20,,Daniel Hall,North
+REQ-1806,Richard Drake,Electric,volatge Fluctuation,Medium,Escalated,2025-11-14,,Nathaniel Luna,North
+REQ-1807,Charles Dawson,Gas,Billing Issue,Medium,Open,2025-10-05,,Nathaniel Luna,West
+REQ-1808,Mary Barrett,Billing,Refund Request,Medium,Resolved,2026-04-08,2026-04-29,Christopher Nelson,Central
+REQ-1809,Christopher Webster,Electric,Meter Error,Medium,Escalated,2025-08-06,,Kimberly Jenkins,South
+REQ-1810,Dennis Winters,Water,No water Supply,Medium,In Progress,2026-05-02,,Nathaniel Luna,West
+REQ-1811,Teresa Mckinney,Water,No water Supply,Medium,In Progress,2026-02-07,,Sharon Michael,North
+REQ-1812,Jill Ortiz,Billing,Payment Not Reflected,Medium,Open,2026-06-07,,Sharon Michael,West
+REQ-1813,Kathleen Salas,Gas,Meter Error,Medium,Open,2026-02-21,,Joseph Noble,West
+REQ-1814,Kathleen Harris,Electric,Meter Error,Medium,Open,2026-05-29,,Hunter Morris,South
+REQ-1815,Charles Brown,Electric,volatge Fluctuation,Medium,Escalated,2026-03-01,,Hunter Morris,Central
+REQ-1816,Richard Bridges,Water,Pipe  Burst,Medium,In Progress,2026-06-18,,Daniel Hall,East
+REQ-1817,Patricia Arias MD,Gas,Meter Error,Medium,Open,2025-10-23,,Jeffery Thomas,Central
+REQ-1818,Joshua Aguilar,Water,Pipe  Burst,Medium,In Progress,2025-09-11,,Joseph Noble,Central
+REQ-1819,Bradley Perez,Water,Water Quality,Medium,Escalated,2026-02-08,,Sharon Michael,Central
+REQ-1820,William Hubbard,Gas,Gas Leak,Critical,In Progress,2025-11-10,,Kimberly Jenkins,East
+REQ-1821,Michael Young,Water,Pipe  Burst,Medium,Open,2025-08-06,,Jennifer Martinez,West
+REQ-1822,Lisa Torres,Gas,Gas Leak,Critical,Resolved,2025-08-15,2025-08-23,Hunter Morris,North
+REQ-1823,Kathleen Miranda,Billing,Payment Not Reflected,Medium,Escalated,2025-09-19,,Joseph Noble,Central
+REQ-1824,Ronnie Martinez,Water,Water Quality,Medium,Escalated,2025-08-04,,Hunter Morris,North
+REQ-1825,Tiffany Rowe,Electric,Power Outage,High,Open,2026-04-23,,Joseph Noble,North
+REQ-1826,Crystal Anderson,Gas,Gas Leak,Critical,Escalated,2026-03-22,,Bradley Jordan,North
+REQ-1827,James Fox,Billing,Account Error,Medium,Resolved,2026-06-03,2026-06-15,Nathaniel Luna,Central
+REQ-1828,Leroy Roberts,Electric,Power Outage,High,In Progress,2025-07-28,,Jeffery Thomas,North
+REQ-1829,Diane Jones,Billing,Incorrect Charge,Medium,Resolved,2025-09-16,2025-10-10,Daniel Hall,East
+REQ-1830,Karen Martinez,Electric,Meter Error,Medium,Open,2026-05-23,,Kimberly Jenkins,North
+REQ-1831,Ann Thompson,Gas,Gas Leak,Critical,Open,2026-03-02,,Jennifer Martinez,West
+REQ-1832,Peter Thomas,Gas,No Gas Supply,Medium,In Progress,2025-09-10,,Joseph Noble,Central
+REQ-1833,Erin Warren,Billing,Incorrect Charge,Medium,Resolved,2025-07-18,2025-08-02,Daniel Hall,North
+REQ-1834,Elizabeth Garcia,Gas,No Gas Supply,Medium,Escalated,2025-10-13,,Hunter Morris,South
+REQ-1835,Mr. Brett Cunningham,Billing,Refund Request,Medium,Resolved,2025-09-20,2025-10-01,Hunter Morris,West
+REQ-1836,Rachel Thompson,Billing,Refund Request,Medium,In Progress,2025-09-13,,Jennifer Martinez,South
+REQ-1837,Michael Williams,Billing,Refund Request,Medium,Resolved,2025-11-09,2025-11-24,Daniel Hall,North
+REQ-1838,Mr. Keith Bailey,Electric,Meter Error,Medium,Open,2025-10-06,,Joseph Noble,East
+REQ-1839,Christie Rhodes,Electric,Meter Error,Medium,In Progress,2026-03-11,,Hunter Morris,North
+REQ-1840,Lisa Coffey,Water,Low Pressure,Medium,Open,2026-06-09,,Jeffery Thomas,East
+REQ-1841,Andrew Bray,Gas,No Gas Supply,Medium,Resolved,2025-12-23,2026-01-21,Sharon Michael,South
+REQ-1842,Pamela Pace,Gas,Meter Error,Medium,Resolved,2026-05-12,2026-05-31,Daniel Hall,Central
+REQ-1843,Joel Gutierrez,Gas,Gas Leak,Critical,Resolved,2025-10-24,2025-10-30,Jeffery Thomas,Central
+REQ-1844,Matthew Bell,Electric,Meter Error,Medium,Open,2025-09-06,,Daniel Hall,North
+REQ-1845,Karina Johnson,Electric,Meter Error,Medium,Resolved,2025-11-18,2025-12-02,Bradley Jordan,South
+REQ-1846,Christopher Kirby,Electric,Downed Power Line,Critical,Open,2026-01-23,,Jennifer Martinez,North
+REQ-1847,Wendy Faulkner,Water,Low Pressure,Medium,Resolved,2025-10-14,2025-11-06,Nathaniel Luna,South
+REQ-1848,Nancy Griffin MD,Electric,Downed Power Line,Critical,Escalated,2025-08-28,,Sharon Michael,Central
+REQ-1849,Jennifer Ford,Electric,volatge Fluctuation,Medium,Escalated,2026-01-31,,Daniel Hall,South
+REQ-1850,Cindy Mcgrath,Gas,Meter Error,Medium,Open,2025-10-28,,Sharon Michael,North
+REQ-1851,Victor Pope,Billing,Refund Request,Medium,Open,2025-12-06,,Jennifer Martinez,West
+REQ-1852,Lawrence Brown,Gas,No Gas Supply,Medium,Escalated,2025-09-15,,Nathaniel Luna,West
+REQ-1853,Alexander Rodriguez,Billing,Payment Not Reflected,Medium,In Progress,2026-02-24,,Bradley Jordan,East
+REQ-1854,Laura Walker,Billing,Refund Request,Medium,Open,2026-05-02,,Daniel Hall,West
+REQ-1855,Jessica Moreno,Water,Water Quality,Medium,In Progress,2026-01-15,,Hunter Morris,Central
+REQ-1856,Vincent Guzman,Electric,Meter Error,Medium,In Progress,2025-12-31,,Sharon Michael,West
+REQ-1857,Cynthia Wilson,Gas,Billing Issue,Medium,Open,2026-03-01,,Nathaniel Luna,East
+REQ-1858,Jeffrey Hoffman,Gas,Gas Leak,Critical,Open,2026-06-01,,Nathaniel Luna,Central
+REQ-1859,Albert Brown,Gas,Meter Error,Medium,Open,2026-01-04,,Bradley Jordan,East
+REQ-1860,Justin Olson,Billing,Account Error,Medium,Open,2026-01-10,,Nathaniel Luna,Central
+REQ-1861,Paige Leon,Gas,No Gas Supply,Medium,Resolved,2025-09-21,2025-10-07,Sharon Michael,South
+REQ-1862,Marvin Ramirez,Electric,Downed Power Line,Critical,Open,2026-02-18,,Joseph Noble,North
+REQ-1863,David Sanchez,Water,Low Pressure,Medium,Resolved,2026-06-01,2026-06-16,Christopher Nelson,North
+REQ-1864,Monica Kim,Billing,Refund Request,Medium,Resolved,2026-05-04,2026-05-05,Kimberly Jenkins,West
+REQ-1865,Charles Shepard,Gas,Billing Issue,Medium,Open,2026-01-18,,Jeffery Thomas,Central
+REQ-1866,Ms. Briana Jackson,Electric,volatge Fluctuation,Medium,In Progress,2025-10-15,,Jeffery Thomas,Central
+REQ-1867,Michael Mills,Electric,Power Outage,High,In Progress,2025-09-30,,Kimberly Jenkins,East
+REQ-1868,Heather Martinez,Billing,Account Error,Medium,In Progress,2026-06-19,,Hunter Morris,East
+REQ-1869,Todd Nelson,Water,Water Quality,Medium,In Progress,2025-10-15,,Kimberly Jenkins,North
+REQ-1870,Tiffany Kennedy,Water,Pipe  Burst,Medium,Open,2025-09-17,,Kimberly Jenkins,South
+REQ-1871,Nancy Thomas,Gas,Meter Error,Medium,Escalated,2025-07-27,,Joseph Noble,North
+REQ-1872,Joseph Houston,Billing,Payment Not Reflected,Medium,Escalated,2026-02-25,,Sharon Michael,South
+REQ-1873,Sara Burgess,Billing,Refund Request,Medium,Resolved,2025-11-11,2025-11-29,Joseph Noble,South
+REQ-1874,Russell Nichols,Gas,No Gas Supply,Medium,In Progress,2026-01-21,,Jennifer Martinez,South
+REQ-1875,Donald Lynn,Billing,Payment Not Reflected,Medium,In Progress,2026-01-17,,Bradley Jordan,Central
+REQ-1876,Haley Smith,Electric,volatge Fluctuation,Medium,Resolved,2026-04-15,2026-05-09,Christopher Nelson,East
+REQ-1877,Michelle Scott,Billing,Account Error,Medium,Resolved,2025-11-14,2025-12-08,Kimberly Jenkins,South
+REQ-1878,Amanda Osborne,Gas,Gas Leak,Critical,In Progress,2026-03-26,,Christopher Nelson,Central
+REQ-1879,Joseph Lam,Water,Low Pressure,Medium,In Progress,2026-03-02,,Christopher Nelson,East
+REQ-1880,Sarah Wall,Electric,Downed Power Line,Critical,In Progress,2025-10-14,,Sharon Michael,West
+REQ-1881,Dr. Holly Ellis,Water,Low Pressure,Medium,Escalated,2025-10-20,,Jeffery Thomas,South
+REQ-1882,Ashley Andrade,Gas,No Gas Supply,Medium,In Progress,2026-06-12,,Daniel Hall,North
+REQ-1883,Paul Brown,Water,Pipe  Burst,Medium,In Progress,2025-07-20,,Nathaniel Luna,South
+REQ-1884,Tina Lopez,Electric,volatge Fluctuation,Medium,Escalated,2025-08-17,,Jeffery Thomas,East
+REQ-1885,Stephanie Haynes,Billing,Payment Not Reflected,Medium,Escalated,2025-12-03,,Christopher Nelson,Central
+REQ-1886,Kimberly Lara,Billing,Refund Request,Medium,Escalated,2025-08-19,,Sharon Michael,Central
+REQ-1887,Taylor Howard,Electric,Power Outage,High,Escalated,2025-11-07,,Christopher Nelson,South
+REQ-1888,Samuel Edwards,Billing,Incorrect Charge,Medium,Escalated,2025-10-07,,Christopher Nelson,South
+REQ-1889,Kristin Moore,Water,Pipe  Burst,Medium,Escalated,2026-01-24,,Kimberly Jenkins,West
+REQ-1890,Danielle Bennett,Gas,Billing Issue,Medium,Resolved,2025-08-19,2025-09-18,Christopher Nelson,Central
+REQ-1891,Monica Dennis,Gas,Billing Issue,Medium,Escalated,2026-05-13,,Jennifer Martinez,North
+REQ-1892,Angela Lee,Gas,No Gas Supply,Medium,Escalated,2025-11-29,,Hunter Morris,West
+REQ-1893,Dr. Paula Wright,Electric,volatge Fluctuation,Medium,Escalated,2025-08-30,,Nathaniel Luna,West
+REQ-1894,Mark Barnes,Electric,Meter Error,Medium,Resolved,2025-07-09,2025-07-30,Joseph Noble,North
+REQ-1895,Juan Lopez,Electric,Power Outage,High,Escalated,2025-08-08,,Hunter Morris,North
+REQ-1896,Kayla Stein,Billing,Payment Not Reflected,Medium,Escalated,2025-09-20,,Daniel Hall,North
+REQ-1897,Cynthia Turner,Gas,Meter Error,Medium,In Progress,2026-04-06,,Joseph Noble,South
+REQ-1898,David Torres,Electric,Downed Power Line,Critical,Resolved,2026-01-21,2026-02-14,Jeffery Thomas,East
+REQ-1899,Bethany Leonard,Gas,Gas Leak,Critical,In Progress,2026-03-17,,Christopher Nelson,Central
+REQ-1900,John Klein,Water,No water Supply,Medium,Escalated,2025-10-17,,Jeffery Thomas,Central
+REQ-1901,Daniel Harrison,Electric,Downed Power Line,Critical,In Progress,2026-03-09,,Sharon Michael,West
+REQ-1902,Grant Larson,Billing,Account Error,Medium,Escalated,2026-05-19,,Sharon Michael,Central
+REQ-1903,Patrick Brown,Electric,volatge Fluctuation,Medium,Resolved,2025-08-15,2025-09-05,Jennifer Martinez,South
+REQ-1904,Craig Berry,Electric,volatge Fluctuation,Medium,In Progress,2026-05-31,,Hunter Morris,North
+REQ-1905,Michael Sosa,Gas,Gas Leak,Critical,Resolved,2026-01-10,2026-02-09,Bradley Jordan,North
+REQ-1906,Lauren Williams,Electric,Downed Power Line,Critical,In Progress,2026-04-07,,Kimberly Jenkins,Central
+REQ-1907,Robert Collins,Gas,Billing Issue,Medium,Resolved,2026-06-10,2026-06-13,Kimberly Jenkins,East
+REQ-1908,Jeffrey Jacobson,Water,Pipe  Burst,Medium,Open,2025-11-22,,Jennifer Martinez,North
+REQ-1909,Darrell Aguirre,Water,Pipe  Burst,Medium,In Progress,2026-04-27,,Kimberly Jenkins,East
+REQ-1910,Kristen Rogers,Billing,Payment Not Reflected,Medium,In Progress,2025-08-19,,Christopher Nelson,North
+REQ-1911,Jesse Hubbard,Electric,Downed Power Line,Critical,Resolved,2025-11-22,2025-12-12,Hunter Morris,East
+REQ-1912,Tony Jackson,Water,Low Pressure,Medium,Escalated,2025-10-05,,Jeffery Thomas,West
+REQ-1913,Alicia King,Gas,No Gas Supply,Medium,Resolved,2026-03-21,2026-03-22,Bradley Jordan,North
+REQ-1914,Jennifer Oconnell,Billing,Incorrect Charge,Medium,In Progress,2025-08-17,,Daniel Hall,West
+REQ-1915,Michelle Miller,Electric,Meter Error,Medium,Resolved,2025-09-15,2025-10-11,Nathaniel Luna,North
+REQ-1916,Bruce Lee,Gas,Meter Error,Medium,Resolved,2026-05-25,2026-06-04,Kimberly Jenkins,Central
+REQ-1917,Marcus Chavez,Water,No water Supply,Medium,Open,2025-07-12,,Hunter Morris,East
+REQ-1918,Alexander Sandoval,Billing,Incorrect Charge,Medium,In Progress,2026-03-21,,Hunter Morris,East
+REQ-1919,Sarah Bell,Billing,Account Error,Medium,Open,2025-08-02,,Joseph Noble,West
+REQ-1920,Ian Orr,Gas,Billing Issue,Medium,Resolved,2025-11-04,2025-11-30,Daniel Hall,North
+REQ-1921,Brandon Hall,Water,Water Quality,Medium,Open,2026-03-14,,Sharon Michael,East
+REQ-1922,David Atkins,Water,No water Supply,Medium,In Progress,2026-02-05,,Christopher Nelson,East
+REQ-1923,Christopher Andrews,Billing,Payment Not Reflected,Medium,Escalated,2026-03-25,,Sharon Michael,North
+REQ-1924,Jim Arias,Water,Water Quality,Medium,Open,2026-02-09,,Daniel Hall,North
+REQ-1925,Anthony West,Billing,Payment Not Reflected,Medium,Resolved,2025-11-09,2025-12-06,Kimberly Jenkins,South
+REQ-1926,Kristine Turner,Water,Low Pressure,Medium,Open,2025-12-19,,Christopher Nelson,South
+REQ-1927,Jeffrey Cook,Electric,Downed Power Line,Critical,Open,2025-10-24,,Jennifer Martinez,South
+REQ-1928,Ashley Jones,Gas,Meter Error,Medium,Escalated,2025-10-03,,Kimberly Jenkins,East
+REQ-1929,Amy Carson,Gas,Gas Leak,Critical,In Progress,2026-03-15,,Christopher Nelson,West
+REQ-1930,Kevin Clements,Billing,Incorrect Charge,Medium,Open,2026-01-20,,Christopher Nelson,Central
+REQ-1931,Renee Green,Electric,Meter Error,Medium,Escalated,2026-06-05,,Bradley Jordan,Central
+REQ-1932,Heather Thomas,Water,No water Supply,Medium,Resolved,2025-08-05,2025-09-03,Nathaniel Luna,East
+REQ-1933,Kevin Jones,Gas,No Gas Supply,Medium,Resolved,2026-02-07,2026-02-25,Hunter Morris,West
+REQ-1934,Amy Kennedy,Electric,Meter Error,Medium,In Progress,2026-04-09,,Kimberly Jenkins,North
+REQ-1935,Michelle Beck,Electric,Power Outage,High,In Progress,2025-09-24,,Hunter Morris,Central
+REQ-1936,Alexander Morrison,Water,Water Quality,Medium,In Progress,2025-07-03,,Kimberly Jenkins,Central
+REQ-1937,John Brown,Gas,No Gas Supply,Medium,Open,2026-01-20,,Sharon Michael,East
+REQ-1938,Tina Singh,Billing,Incorrect Charge,Medium,In Progress,2026-06-14,,Jeffery Thomas,North
+REQ-1939,Kimberly Pratt,Electric,Downed Power Line,Critical,Open,2026-05-15,,Daniel Hall,West
+REQ-1940,Dwayne Thornton,Gas,Billing Issue,Medium,Resolved,2026-01-20,2026-01-31,Nathaniel Luna,Central
+REQ-1941,Melissa Russell,Electric,Downed Power Line,Critical,In Progress,2026-05-12,,Jeffery Thomas,North
+REQ-1942,Alicia Fisher,Billing,Refund Request,Medium,Escalated,2025-10-31,,Nathaniel Luna,South
+REQ-1943,Debbie Blackwell,Gas,Meter Error,Medium,Resolved,2025-12-10,2025-12-16,Hunter Morris,East
+REQ-1944,Donald Cortez,Billing,Account Error,Medium,Open,2026-05-26,,Jeffery Thomas,North
+REQ-1945,Tony Anderson,Water,Pipe  Burst,Medium,Escalated,2026-04-02,,Kimberly Jenkins,East
+REQ-1946,Richard Anderson DVM,Gas,Gas Leak,Critical,Escalated,2026-05-05,,Hunter Morris,Central
+REQ-1947,Scott Hughes,Electric,Meter Error,Medium,Escalated,2025-12-05,,Sharon Michael,West
+REQ-1948,Samantha Johnson,Gas,No Gas Supply,Medium,In Progress,2025-10-25,,Daniel Hall,North
+REQ-1949,Kelsey Avila,Water,Low Pressure,Medium,Escalated,2025-11-18,,Sharon Michael,East
+REQ-1950,Patricia Andrade,Gas,No Gas Supply,Medium,Open,2025-06-29,,Sharon Michael,West
+REQ-1951,Kenneth Torres,Electric,Downed Power Line,Critical,Resolved,2025-09-17,2025-09-21,Jeffery Thomas,South
+REQ-1952,Adam Martin,Water,Pipe  Burst,Medium,Open,2025-08-26,,Bradley Jordan,Central
+REQ-1953,Michelle Franklin,Billing,Refund Request,Medium,Escalated,2025-08-02,,Christopher Nelson,North
+REQ-1954,Benjamin Graham,Gas,No Gas Supply,Medium,Open,2026-04-14,,Joseph Noble,West
+REQ-1955,Jeremy King,Water,Pipe  Burst,Medium,Escalated,2026-03-20,,Nathaniel Luna,East
+REQ-1956,Cynthia Allen,Water,Water Quality,Medium,Escalated,2026-01-03,,Bradley Jordan,Central
+REQ-1957,Mary Johnson,Electric,Downed Power Line,Critical,In Progress,2026-01-29,,Christopher Nelson,East
+REQ-1958,William Castro,Electric,Power Outage,High,Resolved,2026-05-03,2026-05-31,Kimberly Jenkins,North
+REQ-1959,Stephen Thomas,Gas,Billing Issue,Medium,Escalated,2025-08-12,,Hunter Morris,West
+REQ-1960,Jared Gonzalez,Billing,Account Error,Medium,Escalated,2025-09-22,,Nathaniel Luna,South
+REQ-1961,Michael Morton,Billing,Payment Not Reflected,Medium,In Progress,2025-09-17,,Daniel Hall,East
+REQ-1962,Robert Brady,Billing,Payment Not Reflected,Medium,Resolved,2025-07-20,2025-07-25,Joseph Noble,North
+REQ-1963,Mark Barr,Electric,Power Outage,High,In Progress,2025-10-22,,Daniel Hall,South
+REQ-1964,Heather Miles,Electric,volatge Fluctuation,Medium,Escalated,2025-11-07,,Sharon Michael,West
+REQ-1965,Robin Smith,Gas,Billing Issue,Medium,Escalated,2025-09-19,,Jeffery Thomas,West
+REQ-1966,Alexander Krause,Water,Low Pressure,Medium,In Progress,2025-11-23,,Sharon Michael,North
+REQ-1967,Mario Shepherd,Billing,Payment Not Reflected,Medium,Resolved,2025-11-30,2025-12-30,Jennifer Martinez,Central
+REQ-1968,Marcus Scott MD,Water,No water Supply,Medium,Open,2025-09-11,,Jeffery Thomas,East
+REQ-1969,Jillian Smith,Electric,Downed Power Line,Critical,Open,2026-04-17,,Jennifer Martinez,East
+REQ-1970,Ryan Velasquez,Billing,Incorrect Charge,Medium,Open,2026-02-23,,Jeffery Thomas,North
+REQ-1971,Darrell Roberts,Water,No water Supply,Medium,Resolved,2025-09-28,2025-10-23,Christopher Nelson,West
+REQ-1972,Michael Lee,Billing,Account Error,Medium,Resolved,2025-11-25,2025-12-07,Kimberly Jenkins,East
+REQ-1973,Cheryl Gardner,Gas,Gas Leak,Critical,Resolved,2025-09-13,2025-09-22,Christopher Nelson,West
+REQ-1974,Philip Cook,Gas,Gas Leak,Critical,Resolved,2025-08-13,2025-08-14,Kimberly Jenkins,West
+REQ-1975,Jordan Lee,Electric,volatge Fluctuation,Medium,Open,2026-02-06,,Kimberly Jenkins,South
+REQ-1976,Autumn Schultz,Water,Water Quality,Medium,Resolved,2026-06-21,2026-07-15,Bradley Jordan,Central
+REQ-1977,Sheri Vasquez,Gas,No Gas Supply,Medium,Escalated,2025-12-21,,Joseph Noble,East
+REQ-1978,Kyle Perry,Gas,Billing Issue,Medium,In Progress,2025-10-01,,Christopher Nelson,East
+REQ-1979,Renee Fernandez,Electric,volatge Fluctuation,Medium,In Progress,2025-10-18,,Daniel Hall,West
+REQ-1980,Lindsey Morris,Gas,Billing Issue,Medium,In Progress,2026-03-13,,Sharon Michael,East
+REQ-1981,Danielle Jones,Electric,Meter Error,Medium,Open,2026-06-02,,Joseph Noble,West
+REQ-1982,Timothy Ross,Billing,Account Error,Medium,Resolved,2025-10-28,2025-11-21,Jennifer Martinez,South
+REQ-1983,Erik Lozano,Billing,Account Error,Medium,Escalated,2026-02-14,,Joseph Noble,Central
+REQ-1984,Ronald Jensen,Billing,Incorrect Charge,Medium,Resolved,2025-11-11,2025-11-24,Hunter Morris,Central
+REQ-1985,Robert George,Electric,Power Outage,High,Resolved,2025-11-19,2025-12-09,Kimberly Jenkins,East
+REQ-1986,Keith Mejia,Water,Water Quality,Medium,Open,2026-02-18,,Sharon Michael,West
+REQ-1987,Shannon Castro,Billing,Payment Not Reflected,Medium,In Progress,2025-10-05,,Hunter Morris,South
+REQ-1988,Michele Mcclain,Water,No water Supply,Medium,Open,2026-05-25,,Christopher Nelson,West
+REQ-1989,Ethan Brown,Electric,Power Outage,High,Escalated,2025-12-31,,Nathaniel Luna,East
+REQ-1990,Amanda Walsh,Water,Low Pressure,Medium,Open,2026-06-16,,Sharon Michael,North
+REQ-1991,Paul Fitzpatrick,Electric,volatge Fluctuation,Medium,Open,2025-07-01,,Bradley Jordan,North
+REQ-1992,Ellen Christensen,Gas,Billing Issue,Medium,In Progress,2026-05-03,,Joseph Noble,East
+REQ-1993,Michael Thomas,Water,Pipe  Burst,Medium,Open,2025-08-05,,Jeffery Thomas,East
+REQ-1994,Ann Carney,Billing,Refund Request,Medium,Resolved,2026-04-07,2026-05-02,Bradley Jordan,East
+REQ-1995,Lorraine Mccoy,Electric,Downed Power Line,Critical,Escalated,2026-01-09,,Christopher Nelson,East
+REQ-1996,Michael Jones,Water,Low Pressure,Medium,Escalated,2026-05-24,,Jeffery Thomas,South
+REQ-1997,Lisa Beck,Billing,Payment Not Reflected,Medium,Escalated,2026-05-04,,Joseph Noble,Central
+REQ-1998,Matthew Avila,Billing,Payment Not Reflected,Medium,Open,2025-11-14,,Kimberly Jenkins,North
+REQ-1999,Sheila Saunders,Electric,Power Outage,High,Open,2025-09-09,,Kimberly Jenkins,West
